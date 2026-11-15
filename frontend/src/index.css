@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+:root {
+  --bg-deep: #0e0e11;
+  --bg-surface: #141418;
+  --bg-card: #1c1c22;
+  --bg-elevated: #24242c;
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-highlight: rgba(255, 255, 255, 0.16);
+  --text-primary: #f4f4f7;
+  --text-secondary: #a1a1aa;
+  --text-muted: #71717a;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  background-color: #0d0d10;
+  color: #f4f4f7;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* Markdown typography in chat */
+.prose-luco {
+  color: #e4e4e7;
+  font-size: 0.9375rem;
+  line-height: 1.68;
+}
+.prose-luco p {
+  margin-bottom: 0.75rem;
+}
+.prose-luco p:last-child {
+  margin-bottom: 0;
+}
+.prose-luco h1, .prose-luco h2, .prose-luco h3 {
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.015em;
+}
+.prose-luco h2 {
+  font-size: 1.125rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 0.35rem;
+}
+.prose-luco h3 {
+  font-size: 1rem;
+}
+.prose-luco ul {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+.prose-luco ol {
+  list-style-type: decimal;
+  margin-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+.prose-luco li {
+  margin-bottom: 0.35rem;
+  padding-left: 0.25rem;
+}
+.prose-luco strong {
+  color: #ffffff;
+  font-weight: 600;
+}
+.prose-luco code {
+  font-family: 'JetBrains Mono', monospace;
+  background: rgba(255, 255, 255, 0.08);
+  color: #f4f4f5;
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+.prose-luco pre {
+  background: #141418;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.85rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin: 0.85rem 0;
+}
+.prose-luco pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+}
+.prose-luco a {
+  color: #93c5fd;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+.prose-luco table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.85rem 0;
+  font-size: 0.875rem;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.prose-luco th, .prose-luco td {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.75rem;
+}
+.prose-luco th {
+  background: rgba(255, 255, 255, 0.06);
+  color: #ffffff;
+  font-weight: 600;
+}

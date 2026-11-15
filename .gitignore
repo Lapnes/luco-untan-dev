@@ -1,0 +1,69 @@
+# Environment & Secrets
+.env
+*.env
+ov.conf
+**/antigravity-accounts.json
+*.local.json
+.impeccable/
+*.pem
+*.key
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pixi/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+env/
+
+# External Services, Model Weights & Big Data
+dependencies/indobert-cache/
+dependencies/postgres-data/
+dependencies/antigravity-proxy/data/
+.data/
+data/
+data-raw/
+crawl-output/*
+!crawl-output/.gitkeep
+*.zip
+
+# Frontend & Node
+node_modules/
+frontend/node_modules/
+dependencies/antigravity-proxy/node_modules/
+frontend/dist/
+frontend/.vite/
+.npm
+*.tsbuildinfo
+
+# Executables & Native Binaries in Agent Skills
+**/bin/linux-x64/
+*.exe
+*.bin
+
+# Logs & Eval Reports
+logs/
+*.log
+eval/reports/*.jsonl
+
+# Agent & IDE local caches
+.claude/
+.gemini/
+.hermes/
+.pi/
+.codex/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

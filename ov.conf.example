@@ -1,0 +1,18 @@
+{
+  "server": {
+    "auth_mode": "trusted",
+    "root_api_key": "isi-api-key-openviking"
+  },
+  "storage": {
+    "workspace": "/app/data"
+  },
+  "embedding": {
+    "dense": {
+      "provider": "openai",
+      "model": "indobenchmark/indobert-base-p1",
+      "api_base": "http://indobert:8001/v1",
+      "api_key": "none",
+      "dimension": 768
+    }
+  }
+}

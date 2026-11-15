@@ -1,0 +1,27 @@
+[
+  {
+    "query": "Apa saja syarat mengajukan proposal TA atau skripsi?",
+    "latency_ms": 99.9,
+    "hits": "[{\"uri\": \"dosen/index/Daftar_Dosen_Informatika_UNTAN/Daftar_Dosen_Informatika_UNTAN_1.md\", \"score\": 0.701, \"snippet\": \"tipe: indeks\"}, {\"uri\": \"kp-ta/README/README.md\", \"score\": 0.6933, \"snippet\": \"# Direktori Kerja Praktik (KP) & Tugas Akhir (TA)\"}, {\"uri\": \"akademik/index/index.md\", \"score\": 0.692, \"snippet\": \"tipe: indeks\"}]"
+  },
+  {
+    "query": "Bagaimana alur pendaftaran Kerja Praktik KP?",
+    "latency_ms": 159.06,
+    "hits": "[{\"uri\": \"kp-ta/README/README.md\", \"score\": 0.7159, \"snippet\": \"# Direktori Kerja Praktik (KP) & Tugas Akhir (TA)\"}, {\"uri\": \"akademik/panduan/beasiswa-dan-pmb/beasiswa-dan-pmb.md\", \"score\": 0.7071, \"snippet\": \"# Informasi Beasiswa & Penerimaan Mahasiswa Baru (PMB)\"}, {\"uri\": \"kp-ta/panduan-ta/Panduan_Tugas_Akhir_Skripsi_Informatika_UNTAN/3._Tahapan_Menuju_Kelulusan.md\", \"score\": 0.7065, \"snippet\": \"## 3. Tahapan Menuju Kelulusan\"}]"
+  },
+  {
+    "query": "Siapa Izuardo Zulkarnain dan bidang risetnya?",
+    "latency_ms": 72.35,
+    "hits": "[{\"uri\": \"dosen/ai-komputasi/izuardo-zulkarnain/Izuardo_Zulkarnain_S.Pd._M.T/.overview.md\", \"score\": 0.7174, \"snippet\": \"# Izuardo_Zulkarnain_S.Pd._M.T\\n\\n[Directory overview is not ready]\"}, {\"uri\": \"dosen/ai-komputasi/izuardo-zulkarnain/.overview.md\", \"score\": 0.7166, \"snippet\": \"# izuardo-zulkarnain\\n\\n[Directory overview is not ready]\"}]"
+  },
+  {
+    "query": "Berapa SKS minimal untuk lulus sarjana informatika?",
+    "latency_ms": 70.58,
+    "hits": "[{\"uri\": \"dosen/index/Daftar_Dosen_Informatika_UNTAN/Daftar_Dosen_Informatika_UNTAN_1.md\", \"score\": 0.7299, \"snippet\": \"tipe: indeks\"}, {\"uri\": \"akademik/kurikulum/2026/tahap-pembelajaran/Struktur_4_Tahap_Pembelajaran_Kurikulum_2_b56b1f71/Struktur_4_Tahap__4more_8908688c.md\", \"score\": 0.7084, \"snippet\": \"# Struktur 4 Tahap Pembelajaran Kurikulum 2026 (140 SKS)\"}, {\"uri\": \"akademik/index/index.md\", \"score\": 0.7017, \"snippet\": \"tipe: indeks\"}]"
+  },
+  {
+    "query": "Laboratorium apa saja yang ada di Informatika UNTAN?",
+    "latency_ms": 71.1,
+    "hits": "[{\"uri\": \"profil/sejarah-untan/sejarah-untan.md\", \"score\": 0.7218, \"snippet\": \"# Sejarah Universitas Tanjungpura & Fakultas Teknik\"}, {\"uri\": \"dosen/index/Daftar_Dosen_Informatika_UNTAN/Daftar_Dosen_Informatika_UNTAN_1.md\", \"score\": 0.7188, \"snippet\": \"tipe: indeks\"}, {\"uri\": \"profil/README/README.md\", \"score\": 0.707, \"snippet\": \"# Direktori Profil & Tata Kelola Prodi Informatika UNTAN\"}]"
+  }
+]

@@ -1,0 +1,6285 @@
+{
+  "version": "1.0",
+  "description": "JSON Tree Manifest hirarki heading dokumen vault/ untuk navigasi agen LLM",
+  "total_documents": 104,
+  "documents": {
+    "README.md": {
+      "title": "Basis Pengetahuan (Knowledge Vault) Prodi Informatika UNTAN",
+      "total_lines": 26,
+      "headings_count": 3,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Basis Pengetahuan (Knowledge Vault) Prodi Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 8
+        },
+        {
+          "level": 2,
+          "title": "🗂️ Taksonomi 7 Kategori Pengetahuan",
+          "line_start": 9,
+          "line_end": 22
+        },
+        {
+          "level": 2,
+          "title": "⚙️ Aturan Pengelolaan Berkas Vault",
+          "line_start": 23,
+          "line_end": 26
+        }
+      ]
+    },
+    "akademik/README.md": {
+      "title": "Direktori Akademik Informatika UNTAN",
+      "total_lines": 10,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Direktori Akademik Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 10
+        }
+      ]
+    },
+    "akademik/index.md": {
+      "title": "Direktori Akademik Informatika UNTAN",
+      "total_lines": 38,
+      "headings_count": 5,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Direktori Akademik Informatika UNTAN",
+          "line_start": 6,
+          "line_end": 11
+        },
+        {
+          "level": 2,
+          "title": "📚 1. Profil Lulusan & Capaian Pembelajaran Lulusan (CPL)",
+          "line_start": 12,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "🏛️ 2. Hub Kurikulum Operasional & Arsip",
+          "line_start": 17,
+          "line_end": 26
+        },
+        {
+          "level": 2,
+          "title": "📋 3. Panduan Mahasiswa & Regulasi Perkuliahan",
+          "line_start": 27,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "🔗 Tautan Terkait",
+          "line_start": 34,
+          "line_end": 38
+        }
+      ]
+    },
+    "akademik/kurikulum/2016/README.md": {
+      "title": "Arsip Historis Kurikulum 2016 (144 SKS)",
+      "total_lines": 14,
+      "headings_count": 3,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Arsip Historis Kurikulum 2016 (144 SKS)",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "Dokumen Arsip",
+          "line_start": 7,
+          "line_end": 11
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 12,
+          "line_end": 14
+        }
+      ]
+    },
+    "akademik/kurikulum/2016/sebaran-semester.md": {
+      "title": "Sebaran Mata Kuliah Kurikulum 2016 (Total 144 SKS)",
+      "total_lines": 127,
+      "headings_count": 11,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Sebaran Mata Kuliah Kurikulum 2016 (Total 144 SKS)",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "Semester I (19 SKS)",
+          "line_start": 7,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "Semester II (20 SKS)",
+          "line_start": 20,
+          "line_end": 32
+        },
+        {
+          "level": 2,
+          "title": "Semester III (21 SKS)",
+          "line_start": 33,
+          "line_end": 45
+        },
+        {
+          "level": 2,
+          "title": "Semester IV (21 SKS)",
+          "line_start": 46,
+          "line_end": 58
+        },
+        {
+          "level": 2,
+          "title": "Semester V (21 SKS)",
+          "line_start": 59,
+          "line_end": 72
+        },
+        {
+          "level": 2,
+          "title": "Semester VI (22 SKS)",
+          "line_start": 73,
+          "line_end": 86
+        },
+        {
+          "level": 2,
+          "title": "Semester VII (16 SKS)",
+          "line_start": 87,
+          "line_end": 98
+        },
+        {
+          "level": 2,
+          "title": "Semester VIII (4 SKS + Pilihan Pengayaan)",
+          "line_start": 99,
+          "line_end": 105
+        },
+        {
+          "level": 2,
+          "title": "Daftar Mata Kuliah Pilihan Bebas (*Elective Courses*)",
+          "line_start": 106,
+          "line_end": 122
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 123,
+          "line_end": 127
+        }
+      ]
+    },
+    "akademik/kurikulum/2026/README.md": {
+      "title": "Kurikulum 2026 (140 SKS) — Program Studi Informatika UNTAN",
+      "total_lines": 16,
+      "headings_count": 3,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Kurikulum 2026 (140 SKS) — Program Studi Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "Dokumen Kurikulum 2026",
+          "line_start": 7,
+          "line_end": 12
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 13,
+          "line_end": 16
+        }
+      ]
+    },
+    "akademik/kurikulum/2026/pemetaan-cpl.md": {
+      "title": "Matriks Pemetaan CPL ke Kurikulum 2026",
+      "total_lines": 23,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Matriks Pemetaan CPL ke Kurikulum 2026",
+          "line_start": 1,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 20,
+          "line_end": 23
+        }
+      ]
+    },
+    "akademik/kurikulum/2026/tahap-pembelajaran.md": {
+      "title": "Struktur 4 Tahap Pembelajaran Kurikulum 2026 (140 SKS)",
+      "total_lines": 44,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Struktur 4 Tahap Pembelajaran Kurikulum 2026 (140 SKS)",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "Tahap 1: Penguatan Dasar Komputasi & Sains (Semester 1–2)",
+          "line_start": 7,
+          "line_end": 13
+        },
+        {
+          "level": 2,
+          "title": "Tahap 2: Inti Informatika & Rekayasa Perangkat Lunak (Semester 3–4)",
+          "line_start": 14,
+          "line_end": 20
+        },
+        {
+          "level": 2,
+          "title": "Tahap 3: Pendalaman Kelompok Bidang Keahlian & MBKM (Semester 5–6)",
+          "line_start": 21,
+          "line_end": 32
+        },
+        {
+          "level": 2,
+          "title": "Tahap 4: Integrasi Solusi & Capstone Tugas Akhir (Semester 7–8)",
+          "line_start": 33,
+          "line_end": 39
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 40,
+          "line_end": 44
+        }
+      ]
+    },
+    "akademik/kurikulum/README.md": {
+      "title": "Hub Informasi Kurikulum Informatika UNTAN",
+      "total_lines": 39,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Hub Informasi Kurikulum Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "Jalur Kurikulum",
+          "line_start": 7,
+          "line_end": 22
+        },
+        {
+          "level": 2,
+          "title": "Ringkasan Perbedaan Utama",
+          "line_start": 23,
+          "line_end": 34
+        },
+        {
+          "level": 2,
+          "title": "Tautan Dokumen Kurikulum",
+          "line_start": 35,
+          "line_end": 39
+        }
+      ]
+    },
+    "akademik/panduan/beasiswa-dan-pmb.md": {
+      "title": "Informasi Biaya Kuliah (UKT), Beasiswa, dan Penerimaan Mahasiswa Baru (PMB)",
+      "total_lines": 76,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Informasi Biaya Kuliah (UKT), Beasiswa, dan Penerimaan Mahasiswa Baru (PMB)",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Jalur Masuk Penerimaan Mahasiswa Baru (PMB)",
+          "line_start": 7,
+          "line_end": 15
+        },
+        {
+          "level": 2,
+          "title": "2. Rincian Biaya Kuliah Tunggal (UKT)",
+          "line_start": 16,
+          "line_end": 34
+        },
+        {
+          "level": 2,
+          "title": "3. Iuran Pengembangan Institusi (IPI) — Khusus Jalur Mandiri",
+          "line_start": 35,
+          "line_end": 47
+        },
+        {
+          "level": 2,
+          "title": "4. Program Beasiswa Mahasiswa",
+          "line_start": 48,
+          "line_end": 71
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 72,
+          "line_end": 76
+        }
+      ]
+    },
+    "akademik/panduan/kehidupan-kampus-pontianak.md": {
+      "title": "Kehidupan Kampus & Panduan Mahasiswa di Kota Pontianak",
+      "total_lines": 57,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Kehidupan Kampus & Panduan Mahasiswa di Kota Pontianak",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Estimasi Biaya Hidup Mahasiswa (Survei Internal)",
+          "line_start": 7,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "2. Kuliner & Rumah Makan Favorit Mahasiswa",
+          "line_start": 20,
+          "line_end": 30
+        },
+        {
+          "level": 2,
+          "title": "3. Budaya Kopi (*Coffee Shop*) & Tempat Belajar Bersama",
+          "line_start": 31,
+          "line_end": 41
+        },
+        {
+          "level": 2,
+          "title": "4. Destinasi Wisata & Ruang Publik Kota Pontianak",
+          "line_start": 42,
+          "line_end": 53
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 54,
+          "line_end": 57
+        }
+      ]
+    },
+    "akademik/panduan/peraturan-akademik-krs.md": {
+      "title": "Peraturan Akademik, Batas SKS, dan Panduan KRS",
+      "total_lines": 91,
+      "headings_count": 13,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Peraturan Akademik, Batas SKS, dan Panduan KRS",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Beban SKS Semester Berdasarkan IPS",
+          "line_start": 7,
+          "line_end": 10
+        },
+        {
+          "level": 3,
+          "title": "A. Mahasiswa Semester Pertama (Mahasiswa Baru)",
+          "line_start": 11,
+          "line_end": 13
+        },
+        {
+          "level": 3,
+          "title": "B. Mahasiswa Semester Berikutnya",
+          "line_start": 14,
+          "line_end": 26
+        },
+        {
+          "level": 2,
+          "title": "2. Prosedur KRS, Perubahan (LIPRS), dan Pembatalan Mata Kuliah",
+          "line_start": 27,
+          "line_end": 28
+        },
+        {
+          "level": 3,
+          "title": "A. Pengisian Kartu Rencana Studi (KRS)",
+          "line_start": 29,
+          "line_end": 35
+        },
+        {
+          "level": 3,
+          "title": "B. Perubahan Rencana Studi (LIPRS)",
+          "line_start": 36,
+          "line_end": 40
+        },
+        {
+          "level": 3,
+          "title": "C. Pembatalan Mata Kuliah",
+          "line_start": 41,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "3. Evaluasi Keberhasilan Studi & Cuti Akademik",
+          "line_start": 47,
+          "line_end": 54
+        },
+        {
+          "level": 2,
+          "title": "4. Predikat Kelulusan Sarjana (Kelulusan Cum Laude)",
+          "line_start": 55,
+          "line_end": 70
+        },
+        {
+          "level": 2,
+          "title": "5. Syarat Yudisium & Pendaftaran Wisuda",
+          "line_start": 71,
+          "line_end": 79
+        },
+        {
+          "level": 2,
+          "title": "6. Ketentuan Pindah Perguruan Tinggi & Alih Program",
+          "line_start": 80,
+          "line_end": 86
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 87,
+          "line_end": 91
+        }
+      ]
+    },
+    "akademik/profil-lulusan-cpl.md": {
+      "title": "Profil Lulusan & Capaian Pembelajaran Lulusan (CPL)",
+      "total_lines": 34,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Profil Lulusan & Capaian Pembelajaran Lulusan (CPL)",
+          "line_start": 1,
+          "line_end": 2
+        },
+        {
+          "level": 2,
+          "title": "1. Profil Lulusan Sarjana Informatika",
+          "line_start": 3,
+          "line_end": 12
+        },
+        {
+          "level": 2,
+          "title": "2. 10 Capaian Pembelajaran Lulusan (CPL)",
+          "line_start": 13,
+          "line_end": 30
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 31,
+          "line_end": 34
+        }
+      ]
+    },
+    "dokumen/01-sop-kerja-praktek.md": {
+      "title": "SOP Kerja Praktek",
+      "total_lines": 314,
+      "headings_count": 18,
+      "headings": [
+        {
+          "level": 1,
+          "title": "SOP Kerja Praktek",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 1,
+          "title": "**FAKULTAS TEKNIK UNIVERSITAS TANJUNGPURA**",
+          "line_start": 22,
+          "line_end": 25
+        },
+        {
+          "level": 1,
+          "title": "**PROSEDUR OPERASI STANDAR**",
+          "line_start": 26,
+          "line_end": 27
+        },
+        {
+          "level": 1,
+          "title": "**KERJA PRAKTEK**",
+          "line_start": 28,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "**PADA PROGRAM STUDI INFORMATIKA**",
+          "line_start": 30,
+          "line_end": 50
+        },
+        {
+          "level": 4,
+          "title": "**LEMBAR PENGESAHAN**",
+          "line_start": 51,
+          "line_end": 66
+        },
+        {
+          "level": 3,
+          "title": "**CATATAN PERUBAHAN**",
+          "line_start": 67,
+          "line_end": 87
+        },
+        {
+          "level": 3,
+          "title": "**DAFTAR ISI**",
+          "line_start": 88,
+          "line_end": 121
+        },
+        {
+          "level": 3,
+          "title": "**DAFTAR DISTRIBUSI**",
+          "line_start": 122,
+          "line_end": 146
+        },
+        {
+          "level": 4,
+          "title": "**I. TUJUAN**",
+          "line_start": 147,
+          "line_end": 150
+        },
+        {
+          "level": 4,
+          "title": "**II. RUANG LINGKUP**",
+          "line_start": 151,
+          "line_end": 154
+        },
+        {
+          "level": 4,
+          "title": "**III. ISTILAH DAN DEFINISI**",
+          "line_start": 155,
+          "line_end": 178
+        },
+        {
+          "level": 4,
+          "title": "**IV. REFERENSI**",
+          "line_start": 179,
+          "line_end": 184
+        },
+        {
+          "level": 4,
+          "title": "**V. TANGGUNG JAWAB DAN WEWENANG**",
+          "line_start": 185,
+          "line_end": 210
+        },
+        {
+          "level": 4,
+          "title": "**VI. RINCIAN PROSEDUR**",
+          "line_start": 211,
+          "line_end": 236
+        },
+        {
+          "level": 4,
+          "title": "**VII. KETENTUAN**",
+          "line_start": 237,
+          "line_end": 258
+        },
+        {
+          "level": 4,
+          "title": "**VIII. LAMPIRAN**",
+          "line_start": 259,
+          "line_end": 260
+        },
+        {
+          "level": 4,
+          "title": "Diagram Alir Kerja Praktek Program Studi Informatika",
+          "line_start": 261,
+          "line_end": 314
+        }
+      ]
+    },
+    "dokumen/02-panduan-penulisan-proposal-kerja-praktek.md": {
+      "title": "Panduan Penulisan Proposal Kerja Praktek",
+      "total_lines": 214,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Panduan Penulisan Proposal Kerja Praktek",
+          "line_start": 13,
+          "line_end": 214
+        }
+      ]
+    },
+    "dokumen/03-panduan-penulisan-laporan-kerja-praktek.md": {
+      "title": "Panduan Penulisan Laporan Kerja Praktek",
+      "total_lines": 308,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Panduan Penulisan Laporan Kerja Praktek",
+          "line_start": 13,
+          "line_end": 308
+        }
+      ]
+    },
+    "dokumen/04-formulir-kerja-praktek-if-01.md": {
+      "title": "Formulir Kerja Praktek IF 01",
+      "total_lines": 80,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Formulir Kerja Praktek IF 01",
+          "line_start": 13,
+          "line_end": 25
+        },
+        {
+          "level": 1,
+          "title": "PERMOHONAN PENGAJUAN KERJA PRAKTEK",
+          "line_start": 26,
+          "line_end": 80
+        }
+      ]
+    },
+    "dokumen/05-formulir-kerja-praktek-if-00.md": {
+      "title": "Formulir Kerja Praktek IF 00",
+      "total_lines": 74,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Formulir Kerja Praktek IF 00",
+          "line_start": 13,
+          "line_end": 74
+        }
+      ]
+    },
+    "dokumen/06-formulir-kerja-praktek-if-05.md": {
+      "title": "Formulir Kerja Praktek IF 05",
+      "total_lines": 99,
+      "headings_count": 3,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Formulir Kerja Praktek IF 05",
+          "line_start": 13,
+          "line_end": 45
+        },
+        {
+          "level": 2,
+          "title": "Minimal 5 kali  pertemuan konsultasi,",
+          "line_start": 46,
+          "line_end": 47
+        },
+        {
+          "level": 2,
+          "title": "Tanda selesai konsultasi menandakan laporan  dan materi seminar KP telah selesai dikerjakan dan siap di seminarkan\\.",
+          "line_start": 48,
+          "line_end": 99
+        }
+      ]
+    },
+    "dokumen/07-pedoman-akademik-untan-20232024.md": {
+      "title": "Pedoman Akademik Untan 2023/2024",
+      "total_lines": 2536,
+      "headings_count": 106,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Pedoman Akademik Untan 2023/2024",
+          "line_start": 13,
+          "line_end": 27
+        },
+        {
+          "level": 1,
+          "title": "**DAFTAR ISI**",
+          "line_start": 28,
+          "line_end": 115
+        },
+        {
+          "level": 1,
+          "title": "**BAB I PENDAHULUAN**",
+          "line_start": 116,
+          "line_end": 117
+        },
+        {
+          "level": 2,
+          "title": "**1.1 Umum**",
+          "line_start": 118,
+          "line_end": 147
+        },
+        {
+          "level": 2,
+          "title": "**1.2 Sejarah Singkat Universitas Tanjungpura**",
+          "line_start": 148,
+          "line_end": 312
+        },
+        {
+          "level": 2,
+          "title": "**1.3 Perkembangan Program Studi**",
+          "line_start": 313,
+          "line_end": 408
+        },
+        {
+          "level": 2,
+          "title": "**1.4 Pola Ilmiah Pokok**",
+          "line_start": 409,
+          "line_end": 424
+        },
+        {
+          "level": 2,
+          "title": "**1.5 Lambang Universitas Tanjungpura**",
+          "line_start": 425,
+          "line_end": 438
+        },
+        {
+          "level": 2,
+          "title": "**LAMBANG UNIVERSITAS TANJUNGPURA**",
+          "line_start": 439,
+          "line_end": 460
+        },
+        {
+          "level": 2,
+          "title": "**BENDERA DAN PATAKA UNIVERSITAS TANJUNGPURA**",
+          "line_start": 461,
+          "line_end": 486
+        },
+        {
+          "level": 2,
+          "title": "**Fakultas Pertanian**",
+          "line_start": 487,
+          "line_end": 492
+        },
+        {
+          "level": 2,
+          "title": "**Fakultas Ilmu Sosial dan Ilmu Politik**",
+          "line_start": 493,
+          "line_end": 498
+        },
+        {
+          "level": 2,
+          "title": "**Fakultas Kehutanan**",
+          "line_start": 499,
+          "line_end": 504
+        },
+        {
+          "level": 2,
+          "title": "**Fakultas Teknik**",
+          "line_start": 505,
+          "line_end": 510
+        },
+        {
+          "level": 2,
+          "title": "**Fakultas Ilmu Keguruan dan Ilmu Pendidikan**",
+          "line_start": 511,
+          "line_end": 516
+        },
+        {
+          "level": 2,
+          "title": "**Fakultas Matematika dan Ilmu Pengetahuan Alam**",
+          "line_start": 517,
+          "line_end": 540
+        },
+        {
+          "level": 2,
+          "title": "**1.6. Program Pendidikan**",
+          "line_start": 541,
+          "line_end": 544
+        },
+        {
+          "level": 2,
+          "title": "**1.6.1 Program Diploma 3 (D3) dan Sarjana (S1)**",
+          "line_start": 545,
+          "line_end": 627
+        },
+        {
+          "level": 2,
+          "title": "**1.6.2 Program Profesi**",
+          "line_start": 628,
+          "line_end": 643
+        },
+        {
+          "level": 2,
+          "title": "**1.6.3 Program Magister (S2)**",
+          "line_start": 644,
+          "line_end": 675
+        },
+        {
+          "level": 2,
+          "title": "**1.6.4 Program Doktor (S3)**",
+          "line_start": 676,
+          "line_end": 692
+        },
+        {
+          "level": 2,
+          "title": "**BAB II**",
+          "line_start": 693,
+          "line_end": 694
+        },
+        {
+          "level": 2,
+          "title": "**VISI, MISI, DAN TUJUAN UNIVERSITAS TANJUNGPURA**",
+          "line_start": 695,
+          "line_end": 698
+        },
+        {
+          "level": 2,
+          "title": "**2.1 Visi**",
+          "line_start": 699,
+          "line_end": 702
+        },
+        {
+          "level": 2,
+          "title": "**2.2 Misi**",
+          "line_start": 703,
+          "line_end": 708
+        },
+        {
+          "level": 2,
+          "title": "**2.3 Tujuan**",
+          "line_start": 709,
+          "line_end": 754
+        },
+        {
+          "level": 2,
+          "title": "**BAB III**",
+          "line_start": 755,
+          "line_end": 756
+        },
+        {
+          "level": 2,
+          "title": "**ORGANISASI DAN TATA KERJA DI UNIVERSITAS TANJUNGPURA**",
+          "line_start": 757,
+          "line_end": 760
+        },
+        {
+          "level": 2,
+          "title": "**3.1. Pimpinan Universitas Tanjungpura**",
+          "line_start": 761,
+          "line_end": 764
+        },
+        {
+          "level": 2,
+          "title": "**3.2. Senat Universitas Tanjungpura**",
+          "line_start": 765,
+          "line_end": 770
+        },
+        {
+          "level": 2,
+          "title": "**3.3. Satuan Pengawas Internal**",
+          "line_start": 771,
+          "line_end": 774
+        },
+        {
+          "level": 2,
+          "title": "**3.4. Unsur Pelaksana Akademik Fakultas**",
+          "line_start": 775,
+          "line_end": 899
+        },
+        {
+          "level": 2,
+          "title": "**3.5. Lembaga**",
+          "line_start": 900,
+          "line_end": 929
+        },
+        {
+          "level": 2,
+          "title": "**3.6. Pelaksana Administrasi**",
+          "line_start": 930,
+          "line_end": 988
+        },
+        {
+          "level": 2,
+          "title": "**3.7. Unit Pelaksana Teknis (UPT)**",
+          "line_start": 989,
+          "line_end": 1029
+        },
+        {
+          "level": 2,
+          "title": "**BAB IV PENYELENGGARAAN PROGRAM PENDIDIKAN**",
+          "line_start": 1030,
+          "line_end": 1033
+        },
+        {
+          "level": 2,
+          "title": "**4.1 Program Diploma**",
+          "line_start": 1034,
+          "line_end": 1045
+        },
+        {
+          "level": 2,
+          "title": "**4.2 Program Sarjana**",
+          "line_start": 1046,
+          "line_end": 1055
+        },
+        {
+          "level": 2,
+          "title": "**4.3 Program Profesi**",
+          "line_start": 1056,
+          "line_end": 1069
+        },
+        {
+          "level": 2,
+          "title": "**4.4 Program Magister (S2) dan Doktoral (S3)**",
+          "line_start": 1070,
+          "line_end": 1106
+        },
+        {
+          "level": 2,
+          "title": "**BAB V**",
+          "line_start": 1107,
+          "line_end": 1108
+        },
+        {
+          "level": 2,
+          "title": "**PENERIMAAN MAHASISWA BARU, PENERIMAAN MAHASISWA ASING, DAN MAHASISWA PINDAHAN DARI PERGURUAN TINGGI LAIN**",
+          "line_start": 1109,
+          "line_end": 1110
+        },
+        {
+          "level": 2,
+          "title": "**5.1 Penerimaan Mahasiswa Baru Program Sarjana dan Diploma**",
+          "line_start": 1111,
+          "line_end": 1132
+        },
+        {
+          "level": 2,
+          "title": "**5.2 Penerimaan Mahasiswa Pascasarjana (Magister, Spesialis, dan Doktor)**",
+          "line_start": 1133,
+          "line_end": 1158
+        },
+        {
+          "level": 2,
+          "title": "**5.3 Penerimaan Mahasiswa Asing**",
+          "line_start": 1159,
+          "line_end": 1170
+        },
+        {
+          "level": 2,
+          "title": "**5.4 Penerimaan Mahasiswa Pindahan dari Perguruan Tinggi Lain**",
+          "line_start": 1171,
+          "line_end": 1226
+        },
+        {
+          "level": 2,
+          "title": "**5.5 Penerimaan Mahasiswa Lulusan Diploma Tiga (D3)**",
+          "line_start": 1227,
+          "line_end": 1282
+        },
+        {
+          "level": 2,
+          "title": "**5.6 Penerimaan Mahasiswa Alih Program Studi di Lingkungan Universitas Tanjungpura**",
+          "line_start": 1283,
+          "line_end": 1318
+        },
+        {
+          "level": 2,
+          "title": "**5.7 Perpindahan Mahasiswa UNTAN ke Perguruan Tinggi Lain**",
+          "line_start": 1319,
+          "line_end": 1346
+        },
+        {
+          "level": 2,
+          "title": "**BAB VI**",
+          "line_start": 1347,
+          "line_end": 1348
+        },
+        {
+          "level": 2,
+          "title": "**REGISTRASI DAN LAYANAN AKADEMIK MAHASISWA**",
+          "line_start": 1349,
+          "line_end": 1350
+        },
+        {
+          "level": 2,
+          "title": "**6.1 Registrasi Untuk Mahasiswa Aktif UNTAN**",
+          "line_start": 1351,
+          "line_end": 1372
+        },
+        {
+          "level": 2,
+          "title": "**6.2 Cuti Akademik**",
+          "line_start": 1373,
+          "line_end": 1406
+        },
+        {
+          "level": 2,
+          "title": "**6.3 Mahasiswa Tidak Mendaftar Ulang**",
+          "line_start": 1407,
+          "line_end": 1420
+        },
+        {
+          "level": 2,
+          "title": "**BAB VII**",
+          "line_start": 1421,
+          "line_end": 1422
+        },
+        {
+          "level": 2,
+          "title": "**PENYELENGGARAAN AKADEMIK PROGRAM SARJANA**",
+          "line_start": 1423,
+          "line_end": 1424
+        },
+        {
+          "level": 2,
+          "title": "**7.1 Penyelenggaraan Kegiatan Akademik**",
+          "line_start": 1425,
+          "line_end": 1454
+        },
+        {
+          "level": 2,
+          "title": "**7.2 Suasana Akademik**",
+          "line_start": 1455,
+          "line_end": 1476
+        },
+        {
+          "level": 2,
+          "title": "**7.3 Bimbingan Akademik**",
+          "line_start": 1477,
+          "line_end": 1518
+        },
+        {
+          "level": 2,
+          "title": "**7.4 Sistem Kredit Semester dan Satuan Kredit Semester**",
+          "line_start": 1519,
+          "line_end": 1520
+        },
+        {
+          "level": 2,
+          "title": "**7.4.1 Sistem Kredit Semester (SKS)**",
+          "line_start": 1521,
+          "line_end": 1554
+        },
+        {
+          "level": 2,
+          "title": "**7.4.2 Satuan Kredit Semester (sks)**",
+          "line_start": 1555,
+          "line_end": 1570
+        },
+        {
+          "level": 2,
+          "title": "**7.5 Kurikulum**",
+          "line_start": 1571,
+          "line_end": 1586
+        },
+        {
+          "level": 2,
+          "title": "**7.6 Beban Studi dan Penentuan Mata Kuliah**",
+          "line_start": 1587,
+          "line_end": 1632
+        },
+        {
+          "level": 2,
+          "title": "**7.7 Ujian Tengah Semester (UTS) dan Ujian Akhir Semester (UAS)**",
+          "line_start": 1633,
+          "line_end": 1646
+        },
+        {
+          "level": 2,
+          "title": "**7.8 Penilaian Prestasi Akademik Mahasiswa**",
+          "line_start": 1647,
+          "line_end": 1745
+        },
+        {
+          "level": 2,
+          "title": "**7.9 Evaluasi Keberhasilan Studi Mahasiswa**",
+          "line_start": 1746,
+          "line_end": 1799
+        },
+        {
+          "level": 2,
+          "title": "**7.10 Tugas Akhir Mahasiswa**",
+          "line_start": 1800,
+          "line_end": 1869
+        },
+        {
+          "level": 2,
+          "title": "**7.11 Publikasi Hasil Tugas Akhir Mahasiswa**",
+          "line_start": 1870,
+          "line_end": 1879
+        },
+        {
+          "level": 2,
+          "title": "**7.12 Penetapan Kelulusan**",
+          "line_start": 1880,
+          "line_end": 1883
+        },
+        {
+          "level": 2,
+          "title": "**7.13 Yudisium**",
+          "line_start": 1884,
+          "line_end": 1903
+        },
+        {
+          "level": 2,
+          "title": "**7.14 Wisuda**",
+          "line_start": 1904,
+          "line_end": 1917
+        },
+        {
+          "level": 2,
+          "title": "**7.15 Predikat Kelulusan**",
+          "line_start": 1918,
+          "line_end": 1929
+        },
+        {
+          "level": 2,
+          "title": "**7.16 Gelar Akademik dan Sebutan Profesional**",
+          "line_start": 1930,
+          "line_end": 2066
+        },
+        {
+          "level": 2,
+          "title": "**Tabel 7.3. Gelar Akademik Program Diploma dan Sebutan Profesional**",
+          "line_start": 2067,
+          "line_end": 2093
+        },
+        {
+          "level": 2,
+          "title": "**7.17 Surat Keterangan Pendamping Ijazah (SKPI)**",
+          "line_start": 2094,
+          "line_end": 2101
+        },
+        {
+          "level": 2,
+          "title": "**7.18 Pembelajaran di Luar Program Studi**",
+          "line_start": 2102,
+          "line_end": 2117
+        },
+        {
+          "level": 2,
+          "title": "**BAB VIII**",
+          "line_start": 2118,
+          "line_end": 2119
+        },
+        {
+          "level": 2,
+          "title": "**PENYELENGGARAAN AKADEMIK PROGRAM PASCASARJANA**",
+          "line_start": 2120,
+          "line_end": 2121
+        },
+        {
+          "level": 2,
+          "title": "**8.1 Program Magister**",
+          "line_start": 2122,
+          "line_end": 2123
+        },
+        {
+          "level": 2,
+          "title": "**8.1.1 Capaian Pembelajaran**",
+          "line_start": 2124,
+          "line_end": 2143
+        },
+        {
+          "level": 2,
+          "title": "**8.1.2 Kurikulum**",
+          "line_start": 2144,
+          "line_end": 2163
+        },
+        {
+          "level": 2,
+          "title": "**8.1.3 Beban Studi**",
+          "line_start": 2164,
+          "line_end": 2175
+        },
+        {
+          "level": 2,
+          "title": "**8.1.4 Evaluasi Keberhasilan Studi**",
+          "line_start": 2176,
+          "line_end": 2197
+        },
+        {
+          "level": 2,
+          "title": "**8.1.5 Penilaian Prestasi Akademik Mahasiswa**",
+          "line_start": 2198,
+          "line_end": 2230
+        },
+        {
+          "level": 2,
+          "title": "**8.1.6 Tugas Akhir atau Tesis**",
+          "line_start": 2231,
+          "line_end": 2282
+        },
+        {
+          "level": 2,
+          "title": "**8.1.7 Yudisium Program Magister**",
+          "line_start": 2283,
+          "line_end": 2294
+        },
+        {
+          "level": 2,
+          "title": "**8.1.8 Predikat Kelulusan Magister**",
+          "line_start": 2295,
+          "line_end": 2310
+        },
+        {
+          "level": 2,
+          "title": "**8.2. Program Doktor**",
+          "line_start": 2311,
+          "line_end": 2312
+        },
+        {
+          "level": 2,
+          "title": "**8.2.1 Capaian Pembelajaran**",
+          "line_start": 2313,
+          "line_end": 2338
+        },
+        {
+          "level": 2,
+          "title": "**8.2.2 Kurikulum**",
+          "line_start": 2339,
+          "line_end": 2352
+        },
+        {
+          "level": 2,
+          "title": "**8.2.3 Beban Studi**",
+          "line_start": 2353,
+          "line_end": 2364
+        },
+        {
+          "level": 2,
+          "title": "**8.2.4 Evaluasi Keberhasilan Studi**",
+          "line_start": 2365,
+          "line_end": 2386
+        },
+        {
+          "level": 2,
+          "title": "**8.2.5 Penilaian Prestasi Akademik Mahasiswa**",
+          "line_start": 2387,
+          "line_end": 2415
+        },
+        {
+          "level": 2,
+          "title": "**8.2.6 Tugas Akhir atau Disertasi**",
+          "line_start": 2416,
+          "line_end": 2455
+        },
+        {
+          "level": 2,
+          "title": "**8.2.7 Yudisium Program Doktor**",
+          "line_start": 2456,
+          "line_end": 2467
+        },
+        {
+          "level": 2,
+          "title": "**8.2.8 Predikat Kelulusan Program Doktor**",
+          "line_start": 2468,
+          "line_end": 2487
+        },
+        {
+          "level": 2,
+          "title": "**BAB IX**",
+          "line_start": 2488,
+          "line_end": 2489
+        },
+        {
+          "level": 2,
+          "title": "**PELANGGARAN DAN SANKSI AKADEMIK**",
+          "line_start": 2490,
+          "line_end": 2491
+        },
+        {
+          "level": 2,
+          "title": "**9.1. Pelanggaran dalam ujian dan pemalsuan nilai:**",
+          "line_start": 2492,
+          "line_end": 2499
+        },
+        {
+          "level": 2,
+          "title": "**9.2. Pelanggaran Pemalsuan Tanda Tangan**",
+          "line_start": 2500,
+          "line_end": 2503
+        },
+        {
+          "level": 2,
+          "title": "**9.3. Pelanggaran dalam penulisan Tugas Akhir/Skripsi/Tesis/Disertasi:**",
+          "line_start": 2504,
+          "line_end": 2509
+        },
+        {
+          "level": 2,
+          "title": "**9.4. Pelanggaran Hukum**",
+          "line_start": 2510,
+          "line_end": 2513
+        },
+        {
+          "level": 2,
+          "title": "**9.5. Mahasiswa yang melakukan tindakan tercela antara lain:**",
+          "line_start": 2514,
+          "line_end": 2519
+        },
+        {
+          "level": 2,
+          "title": "**9.6. Ketentuan**",
+          "line_start": 2520,
+          "line_end": 2527
+        },
+        {
+          "level": 2,
+          "title": "**BAB X PENUTUP**",
+          "line_start": 2528,
+          "line_end": 2536
+        }
+      ]
+    },
+    "dokumen/08-formulir-kerja-praktek-if-06.md": {
+      "title": "Formulir Kerja Praktek IF 06",
+      "total_lines": 90,
+      "headings_count": 5,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Formulir Kerja Praktek IF 06",
+          "line_start": 13,
+          "line_end": 41
+        },
+        {
+          "level": 2,
+          "title": "KOMPONEN PENILAIAN",
+          "line_start": 42,
+          "line_end": 47
+        },
+        {
+          "level": 1,
+          "title": "Nilai \\(1\\-100\\)",
+          "line_start": 48,
+          "line_end": 49
+        },
+        {
+          "level": 1,
+          "title": "Bobot x Nilai",
+          "line_start": 50,
+          "line_end": 81
+        },
+        {
+          "level": 1,
+          "title": "__T O T A L__",
+          "line_start": 82,
+          "line_end": 90
+        }
+      ]
+    },
+    "dokumen/09-formulir-kerja-praktek-if-07.md": {
+      "title": "Formulir Kerja Praktek IF 07",
+      "total_lines": 42,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Formulir Kerja Praktek IF 07",
+          "line_start": 13,
+          "line_end": 42
+        }
+      ]
+    },
+    "dokumen/10-formulir-kerja-praktek-if-08.md": {
+      "title": "Formulir Kerja Praktek IF 08",
+      "total_lines": 74,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Formulir Kerja Praktek IF 08",
+          "line_start": 13,
+          "line_end": 74
+        }
+      ]
+    },
+    "dokumen/11-pedoman-penulisan-proposal-skripsi-2022.md": {
+      "title": "Pedoman Penulisan Proposal Skripsi 2022",
+      "total_lines": 990,
+      "headings_count": 66,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Pedoman Penulisan Proposal Skripsi 2022",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 1,
+          "title": "**PEDOMAN PENULISAN PROPOSAL SKRIPSI**",
+          "line_start": 22,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "**Tim Penyusun:**",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 4,
+          "title": "**PRAKATA**",
+          "line_start": 36,
+          "line_end": 107
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR LAMPIRAN**",
+          "line_start": 108,
+          "line_end": 128
+        },
+        {
+          "level": 4,
+          "title": "**BAB I PENDAHULUAN**",
+          "line_start": 129,
+          "line_end": 130
+        },
+        {
+          "level": 4,
+          "title": "**<mark>1.1 Latar Belakang</mark>**",
+          "line_start": 131,
+          "line_end": 134
+        },
+        {
+          "level": 4,
+          "title": "**<mark>1.2 Tujuan</mark>**",
+          "line_start": 135,
+          "line_end": 138
+        },
+        {
+          "level": 4,
+          "title": "**<mark>1.3 Sistematika Buku Pedoman</mark>**",
+          "line_start": 139,
+          "line_end": 146
+        },
+        {
+          "level": 4,
+          "title": "**BAB II KETENTUAN UMUM**",
+          "line_start": 147,
+          "line_end": 148
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.1 Ukuran Kertas</mark>**",
+          "line_start": 149,
+          "line_end": 180
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.4 Tabel</mark>**",
+          "line_start": 181,
+          "line_end": 214
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.6 Persamaan</mark>**",
+          "line_start": 215,
+          "line_end": 220
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.7 Kode Program</mark>**",
+          "line_start": 221,
+          "line_end": 232
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.8 Lampiran</mark>**",
+          "line_start": 233,
+          "line_end": 240
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.9 Sitasi atau Pengutipan</mark>**",
+          "line_start": 241,
+          "line_end": 244
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.9.1 Parafrase</mark>**",
+          "line_start": 245,
+          "line_end": 258
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.9.2 Ringkasan</mark>**",
+          "line_start": 259,
+          "line_end": 274
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.9.3 Kutipan Langsung</mark>**",
+          "line_start": 275,
+          "line_end": 302
+        },
+        {
+          "level": 4,
+          "title": "**BAB III BAGIAN-BAGIAN PROPOSAL SKRIPSI**",
+          "line_start": 303,
+          "line_end": 327
+        },
+        {
+          "level": 4,
+          "title": "**3.1.4 Halaman Prakata**",
+          "line_start": 328,
+          "line_end": 329
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.1.4.1 Isi Prakata</mark>**",
+          "line_start": 330,
+          "line_end": 339
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.1.4.2 Tipografi/Cara Penulisan</mark>**",
+          "line_start": 340,
+          "line_end": 343
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.5 Halaman Daftar Isi</mark>**",
+          "line_start": 344,
+          "line_end": 351
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.6 Halaman Daftar Gambar</mark>**",
+          "line_start": 352,
+          "line_end": 355
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.7 Halaman Daftar Tabel</mark>**",
+          "line_start": 356,
+          "line_end": 359
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.8 Halaman Daftar Kode Program</mark>**",
+          "line_start": 360,
+          "line_end": 363
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.9 Halaman Daftar Lampiran</mark>**",
+          "line_start": 364,
+          "line_end": 367
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.10 Halaman Glosarium</mark>**",
+          "line_start": 368,
+          "line_end": 379
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.2.2 Bab II Tinjauan Pustaka</mark>**",
+          "line_start": 380,
+          "line_end": 383
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.2.3 Bab III Metodologi Penelitian</mark>**",
+          "line_start": 384,
+          "line_end": 391
+        },
+        {
+          "level": 4,
+          "title": "**3.3 Bagian Akhir**",
+          "line_start": 392,
+          "line_end": 393
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.3.1 Daftar Rujukan</mark>**",
+          "line_start": 394,
+          "line_end": 468
+        },
+        {
+          "level": 4,
+          "title": "**<u>a. Buku</u>**",
+          "line_start": 469,
+          "line_end": 470
+        },
+        {
+          "level": 4,
+          "title": "**<u>(1</u>** **~~<u>)-</u>~~ Pengarang tunggal**",
+          "line_start": 471,
+          "line_end": 474
+        },
+        {
+          "level": 4,
+          "title": "**<u>(2</u>** **~~<u>)-</u>~~ Dengan dua pengarang**",
+          "line_start": 475,
+          "line_end": 478
+        },
+        {
+          "level": 4,
+          "title": "**<u>(3</u>** **~~<u>)-</u>~~** **<u>Dengan tiga sampai dengan enam pengarang</u>**",
+          "line_start": 479,
+          "line_end": 494
+        },
+        {
+          "level": 4,
+          "title": "**<u>(4</u>** **~~<u>)-</u>~~** **<u>Lebih dari enam pengarang</u>**",
+          "line_start": 495,
+          "line_end": 504
+        },
+        {
+          "level": 4,
+          "title": "**<u>(5</u>** **~~<u>)-</u>~~ Tidak ada nama pengarang**",
+          "line_start": 505,
+          "line_end": 528
+        },
+        {
+          "level": 4,
+          "title": "c. **Periodicals**",
+          "line_start": 529,
+          "line_end": 536
+        },
+        {
+          "level": 4,
+          "title": "d. **Artikel Jurnal**",
+          "line_start": 537,
+          "line_end": 742
+        },
+        {
+          "level": 4,
+          "title": "**<u>x.</u> CD-ROM**",
+          "line_start": 743,
+          "line_end": 750
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.3.2 Lampiran</mark>**",
+          "line_start": 751,
+          "line_end": 756
+        },
+        {
+          "level": 4,
+          "title": "**BAB IV PENUTUP**",
+          "line_start": 757,
+          "line_end": 764
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR RUJUKAN**",
+          "line_start": 765,
+          "line_end": 776
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN A CONTOH SAMPUL DEPAN (COVER)**",
+          "line_start": 777,
+          "line_end": 792
+        },
+        {
+          "level": 2,
+          "title": "**TOPIK-TOPIK MATEMATIKA YANG BANYAK DIGUNAKAN DALAM ILMU REKAYASA**",
+          "line_start": 793,
+          "line_end": 800
+        },
+        {
+          "level": 2,
+          "title": "**FAKULTAS TEKNIK UNIVERSITAS TANJUNGPURA PONTIANAK 2022**",
+          "line_start": 801,
+          "line_end": 806
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN B CONTOH HALAMAN PERSETUJUAN**",
+          "line_start": 807,
+          "line_end": 828
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN C CONTOH PRAKATA**",
+          "line_start": 829,
+          "line_end": 830
+        },
+        {
+          "level": 4,
+          "title": "**PRAKATA**",
+          "line_start": 831,
+          "line_end": 848
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN D CONTOH HALAMAN DAFTAR ISI**",
+          "line_start": 849,
+          "line_end": 850
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR ISI**",
+          "line_start": 851,
+          "line_end": 883
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN E LAMPIRAN E CONTOH HALAMAN DAFTAR GAMBAR**",
+          "line_start": 884,
+          "line_end": 885
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR GAMBAR**",
+          "line_start": 886,
+          "line_end": 896
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN F LAMPIRAN F CONTOH HALAMAN DAFTAR TABEL**",
+          "line_start": 897,
+          "line_end": 898
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR TABEL**",
+          "line_start": 899,
+          "line_end": 909
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN G LAMPIRAN G CONTOH HALAMAN DAFTAR KODE PROGRAM**",
+          "line_start": 910,
+          "line_end": 911
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR KODE PROGRAM**",
+          "line_start": 912,
+          "line_end": 919
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN H LAMPIRAN H CONTOH HALAMAN DAFTAR LAMPIRAN**",
+          "line_start": 920,
+          "line_end": 921
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR LAMPIRAN**",
+          "line_start": 922,
+          "line_end": 929
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN I CONTOH HALAMAN GLOSARIUM**",
+          "line_start": 930,
+          "line_end": 931
+        },
+        {
+          "level": 4,
+          "title": "**GLOSARIUM**",
+          "line_start": 932,
+          "line_end": 939
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN J CONTOH DAFTAR RUJUKAN**",
+          "line_start": 940,
+          "line_end": 941
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR R RUJUKAN**",
+          "line_start": 942,
+          "line_end": 957
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN K JADWAL PENELITIAN**",
+          "line_start": 958,
+          "line_end": 990
+        }
+      ]
+    },
+    "dokumen/12-pedoman-penulisan-skripsi-2022.md": {
+      "title": "Pedoman Penulisan Skripsi 2022",
+      "total_lines": 1246,
+      "headings_count": 97,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Pedoman Penulisan Skripsi 2022",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 1,
+          "title": "**PEDOMAN PENULISAN SKRIPSI**",
+          "line_start": 22,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "**Tim Penyusun:**",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 4,
+          "title": "**PRAKATA**",
+          "line_start": 36,
+          "line_end": 57
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR ISI**",
+          "line_start": 58,
+          "line_end": 147
+        },
+        {
+          "level": 4,
+          "title": "**BAB I PENDAHULUAN**",
+          "line_start": 148,
+          "line_end": 149
+        },
+        {
+          "level": 4,
+          "title": "**<mark>1.1 Latar Belakang</mark>**",
+          "line_start": 150,
+          "line_end": 153
+        },
+        {
+          "level": 4,
+          "title": "**<mark>1.2 Tujuan</mark>**",
+          "line_start": 154,
+          "line_end": 157
+        },
+        {
+          "level": 4,
+          "title": "**<mark>1.3 Sistematika Buku Pedoman</mark>**",
+          "line_start": 158,
+          "line_end": 165
+        },
+        {
+          "level": 4,
+          "title": "**BAB II KETENTUAN UMUM**",
+          "line_start": 166,
+          "line_end": 167
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.1 Ukuran Kertas</mark>**",
+          "line_start": 168,
+          "line_end": 185
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.3 Penomoran Halaman</mark>**",
+          "line_start": 186,
+          "line_end": 203
+        },
+        {
+          "level": 4,
+          "title": "**2.4 Pencetakan dan Penjilidan**",
+          "line_start": 204,
+          "line_end": 205
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.4.1 Pembatas Bab (Chapter Separator)</mark>**",
+          "line_start": 206,
+          "line_end": 209
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.4.2 Punggung Skripsi</mark>**",
+          "line_start": 210,
+          "line_end": 217
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.4.3 Format CD/DVD</mark>**",
+          "line_start": 218,
+          "line_end": 221
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.5 Tabel</mark>**",
+          "line_start": 222,
+          "line_end": 252
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.6 Gambar</mark>**",
+          "line_start": 253,
+          "line_end": 265
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.7 Persamaan</mark>**",
+          "line_start": 266,
+          "line_end": 269
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.8 Kode Program</mark>**",
+          "line_start": 270,
+          "line_end": 277
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.9 Lampiran</mark>**",
+          "line_start": 278,
+          "line_end": 291
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.10 Sitasi atau Pengutipan</mark>**",
+          "line_start": 292,
+          "line_end": 295
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.10.1 Parafrase</mark>**",
+          "line_start": 296,
+          "line_end": 305
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.10.2 Ringkasan</mark>**",
+          "line_start": 306,
+          "line_end": 327
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.10.3 Kutipan Langsung</mark>**",
+          "line_start": 328,
+          "line_end": 341
+        },
+        {
+          "level": 4,
+          "title": "**<mark>2.10.4 Acuan Sekunder</mark>**",
+          "line_start": 342,
+          "line_end": 355
+        },
+        {
+          "level": 4,
+          "title": "**BAB III BAGIAN-BAGIAN SKRIPSI**",
+          "line_start": 356,
+          "line_end": 381
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.4 Halaman Pengesahan</mark>**",
+          "line_start": 382,
+          "line_end": 385
+        },
+        {
+          "level": 4,
+          "title": "**3.1.5 Halaman Persembahan**",
+          "line_start": 386,
+          "line_end": 387
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.1.5.1 Isi Halaman Persembahan</mark>**",
+          "line_start": 388,
+          "line_end": 393
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.1.5.2 Tipografi/Cara Penulisan</mark>**",
+          "line_start": 394,
+          "line_end": 397
+        },
+        {
+          "level": 4,
+          "title": "**3.1.6 Halaman Prakata**",
+          "line_start": 398,
+          "line_end": 399
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.1.6.1 Isi Prakata</mark>**",
+          "line_start": 400,
+          "line_end": 415
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.1.6.2 Tipografi/Cara Penulisan</mark>**",
+          "line_start": 416,
+          "line_end": 419
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.7 Abstrak</mark>**",
+          "line_start": 420,
+          "line_end": 431
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.8 Halaman Daftar Isi</mark>**",
+          "line_start": 432,
+          "line_end": 441
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.9 Halaman Daftar Gambar</mark>**",
+          "line_start": 442,
+          "line_end": 445
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.10 Halaman Daftar Tabel</mark>**",
+          "line_start": 446,
+          "line_end": 449
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.11 Halaman Daftar Kode Program</mark>**",
+          "line_start": 450,
+          "line_end": 453
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.12 Halaman Daftar Lampiran</mark>**",
+          "line_start": 454,
+          "line_end": 457
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.1.13 Halaman Glosarium</mark>**",
+          "line_start": 458,
+          "line_end": 475
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.2.1.1 Latar Belakang</mark>**",
+          "line_start": 476,
+          "line_end": 489
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.2.1.2 Perumusan Masalah</mark>**",
+          "line_start": 490,
+          "line_end": 493
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.2.1.3 Tujuan dan Sasaran Penelitian</mark>**",
+          "line_start": 494,
+          "line_end": 499
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.2.1.4 Pembatasan Masalah</mark>**",
+          "line_start": 500,
+          "line_end": 505
+        },
+        {
+          "level": 3,
+          "title": "**<mark>3.2.1.5 Sistematika Penulisan</mark>**",
+          "line_start": 506,
+          "line_end": 513
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.2.2 Bab II Tinjauan Pustaka</mark>**",
+          "line_start": 514,
+          "line_end": 517
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.2.3 Bab III Metodologi Penelitian</mark>**",
+          "line_start": 518,
+          "line_end": 521
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.2.4 Bab IV Hasil dan Pembahasan</mark>**",
+          "line_start": 522,
+          "line_end": 545
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.2.5 Bab V Penutup</mark>**",
+          "line_start": 546,
+          "line_end": 551
+        },
+        {
+          "level": 4,
+          "title": "**3.3 Bagian Akhir**",
+          "line_start": 552,
+          "line_end": 553
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.3.1 Daftar Rujukan</mark>**",
+          "line_start": 554,
+          "line_end": 614
+        },
+        {
+          "level": 4,
+          "title": "**<u>a. Buku</u>**",
+          "line_start": 615,
+          "line_end": 616
+        },
+        {
+          "level": 4,
+          "title": "**<u>(1</u>** **~~<u>)-</u>~~ Pengarang tunggal**",
+          "line_start": 617,
+          "line_end": 620
+        },
+        {
+          "level": 4,
+          "title": "**<u>(2</u>** **~~<u>)-</u>~~ Dengan dua pengarang**",
+          "line_start": 621,
+          "line_end": 636
+        },
+        {
+          "level": 4,
+          "title": "**<u>(3</u>** **~~<u>)-</u>~~** **<u>Dengan tiga sampai dengan enam pengarang</u>**",
+          "line_start": 637,
+          "line_end": 640
+        },
+        {
+          "level": 4,
+          "title": "**<u>(4</u>** **~~<u>)-</u>~~** **<u>Lebih dari enam pengarang</u>**",
+          "line_start": 641,
+          "line_end": 684
+        },
+        {
+          "level": 4,
+          "title": "c. **Periodicals**",
+          "line_start": 685,
+          "line_end": 692
+        },
+        {
+          "level": 4,
+          "title": "d. **Artikel Jurnal**",
+          "line_start": 693,
+          "line_end": 781
+        },
+        {
+          "level": 4,
+          "title": "**h. Sumber Online**",
+          "line_start": 782,
+          "line_end": 843
+        },
+        {
+          "level": 4,
+          "title": "**Webpage Organisasi**",
+          "line_start": 844,
+          "line_end": 845
+        },
+        {
+          "level": 4,
+          "title": "**0.**",
+          "line_start": 846,
+          "line_end": 893
+        },
+        {
+          "level": 4,
+          "title": "**p. Paper Seminar Atau Konferensi yang Dipublikasikan**",
+          "line_start": 894,
+          "line_end": 921
+        },
+        {
+          "level": 4,
+          "title": "**r. Laporan Suatu Lembaga Pemerintah yang Ditulis Oleh Perorangan**",
+          "line_start": 922,
+          "line_end": 957
+        },
+        {
+          "level": 4,
+          "title": "**<mark>3.3.2 Lampiran</mark>**",
+          "line_start": 958,
+          "line_end": 965
+        },
+        {
+          "level": 4,
+          "title": "**BAB IV PENUTUP**",
+          "line_start": 966,
+          "line_end": 973
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR RUJUKAN**",
+          "line_start": 974,
+          "line_end": 985
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN A CONTOH SAMPUL DEPAN (COVER)**",
+          "line_start": 986,
+          "line_end": 987
+        },
+        {
+          "level": 2,
+          "title": "**JUDUL SKRIPSI HARUS DITULIS MENGGUNAKAN HURUF KAPITAL JENIS TIMES NEW ROMAN UKURAN 14 PT DICETAK TEBAL**",
+          "line_start": 988,
+          "line_end": 989
+        },
+        {
+          "level": 2,
+          "title": "**SKRIPSI**",
+          "line_start": 990,
+          "line_end": 1005
+        },
+        {
+          "level": 2,
+          "title": "**TOPIK-TOPIK MATEMATIKA YANG BANYAK DIGUNAKAN DALAM ILMU REKAYASA**",
+          "line_start": 1006,
+          "line_end": 1015
+        },
+        {
+          "level": 2,
+          "title": "FAKULTAS TEKNIK UNIVERSITAS TANJUNGPURA PONTIANAK",
+          "line_start": 1016,
+          "line_end": 1023
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN B CONTOH PUNGGUNG SKRIPSI**",
+          "line_start": 1024,
+          "line_end": 1031
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN C CONTOH HALAMAN PERNYATAAN KEASLIAN SKRIPSI**",
+          "line_start": 1032,
+          "line_end": 1033
+        },
+        {
+          "level": 4,
+          "title": "HALAMAN PERNYATAAN",
+          "line_start": 1034,
+          "line_end": 1053
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN D CONTOH HALAMAN PENGESAHAN**",
+          "line_start": 1054,
+          "line_end": 1077
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN E CONTOH HALAMAN PERSEMBAHAN**",
+          "line_start": 1078,
+          "line_end": 1089
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN F CONTOH PRAKATA**",
+          "line_start": 1090,
+          "line_end": 1091
+        },
+        {
+          "level": 4,
+          "title": "**PRAKATA**",
+          "line_start": 1092,
+          "line_end": 1109
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN G CONTOH ABSTRAK**",
+          "line_start": 1110,
+          "line_end": 1111
+        },
+        {
+          "level": 4,
+          "title": "**ABSTRAK**",
+          "line_start": 1112,
+          "line_end": 1121
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN H CONTOH ABSTRACT**",
+          "line_start": 1122,
+          "line_end": 1123
+        },
+        {
+          "level": 4,
+          "title": "**ABSTRACT**",
+          "line_start": 1124,
+          "line_end": 1133
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN I CONTOH HALAMAN DAFTAR ISI**",
+          "line_start": 1134,
+          "line_end": 1135
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR ISI**",
+          "line_start": 1136,
+          "line_end": 1162
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN J CONTOH HALAMAN DAFTAR GAMBAR**",
+          "line_start": 1163,
+          "line_end": 1164
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR GAMBAR**",
+          "line_start": 1165,
+          "line_end": 1175
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN K CONTOH HALAMAN DAFTAR TABEL**",
+          "line_start": 1176,
+          "line_end": 1188
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN L CONTOH HALAMAN DAFTAR KODE PROGRAM**",
+          "line_start": 1189,
+          "line_end": 1190
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR KODE PROGRAM**",
+          "line_start": 1191,
+          "line_end": 1198
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN M CONTOH HALAMAN DAFTAR LAMPIRAN**",
+          "line_start": 1199,
+          "line_end": 1200
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR LAMPIRAN**",
+          "line_start": 1201,
+          "line_end": 1208
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN N CONTOH HALAMAN GLOSARIUM**",
+          "line_start": 1209,
+          "line_end": 1210
+        },
+        {
+          "level": 4,
+          "title": "**GLOSARIUM**",
+          "line_start": 1211,
+          "line_end": 1218
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN O CONTOH DAFTAR RUJUKAN**",
+          "line_start": 1219,
+          "line_end": 1220
+        },
+        {
+          "level": 4,
+          "title": "**DAFTAR RUJUKAN**",
+          "line_start": 1221,
+          "line_end": 1236
+        },
+        {
+          "level": 2,
+          "title": "**LAMPIRAN P LABEL PADA PERMUKAAN CD**",
+          "line_start": 1237,
+          "line_end": 1246
+        }
+      ]
+    },
+    "dokumen/13-tamplate-proposal-skripsi.md": {
+      "title": "Tamplate Proposal Skripsi",
+      "total_lines": 257,
+      "headings_count": 27,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Tamplate Proposal Skripsi",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 1,
+          "title": "**JUDUL PROPOSAL SKRIPSI HARUS DITULIS MENGGUNAKAN HURUF KAPITAL JENIS TIMES NEW ROMAN UKURAN 14 PT DICETAK TEBAL**",
+          "line_start": 22,
+          "line_end": 37
+        },
+        {
+          "level": 2,
+          "title": "**HALAMAN PERSETUJUAN**",
+          "line_start": 38,
+          "line_end": 39
+        },
+        {
+          "level": 1,
+          "title": "**TOPIK-TOPIK MATEMATIKA YANG BANYAK DIGUNAKAN DALAM ILMU REKAYASA**",
+          "line_start": 40,
+          "line_end": 61
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR ISI**",
+          "line_start": 62,
+          "line_end": 95
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR GAMBAR**",
+          "line_start": 96,
+          "line_end": 99
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR TABEL**",
+          "line_start": 100,
+          "line_end": 110
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR KODE PROGRAM**",
+          "line_start": 111,
+          "line_end": 114
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR LAMPIRAN**",
+          "line_start": 115,
+          "line_end": 125
+        },
+        {
+          "level": 2,
+          "title": "**GLOSARIUM**",
+          "line_start": 126,
+          "line_end": 131
+        },
+        {
+          "level": 2,
+          "title": "**BAB I PENDAHULUAN**",
+          "line_start": 132,
+          "line_end": 133
+        },
+        {
+          "level": 2,
+          "title": "**1.1 Latar Belakang**",
+          "line_start": 134,
+          "line_end": 139
+        },
+        {
+          "level": 2,
+          "title": "**1.2 Perumusan Masalah**",
+          "line_start": 140,
+          "line_end": 145
+        },
+        {
+          "level": 2,
+          "title": "**1.3 Tujuan dan Sasaran Penelitian**",
+          "line_start": 146,
+          "line_end": 151
+        },
+        {
+          "level": 2,
+          "title": "**1.4 Pembatasan Masalah**",
+          "line_start": 152,
+          "line_end": 157
+        },
+        {
+          "level": 2,
+          "title": "**1.5 Sistematika Penulisan**",
+          "line_start": 158,
+          "line_end": 161
+        },
+        {
+          "level": 2,
+          "title": "**1.6**",
+          "line_start": 162,
+          "line_end": 165
+        },
+        {
+          "level": 2,
+          "title": "**BAB II TINJAUAN PUSTAKA**",
+          "line_start": 166,
+          "line_end": 167
+        },
+        {
+          "level": 2,
+          "title": "**2.1 Xxxxxxx Xxxxx**",
+          "line_start": 168,
+          "line_end": 173
+        },
+        {
+          "level": 2,
+          "title": "**2.1.1 Xxx Xxxxx Xxxxx**",
+          "line_start": 174,
+          "line_end": 179
+        },
+        {
+          "level": 2,
+          "title": "**2.2 Xxx Xxxx Xxxxx**",
+          "line_start": 180,
+          "line_end": 183
+        },
+        {
+          "level": 2,
+          "title": "**2.2.1 Xxx Xxxxx Xxxxx**",
+          "line_start": 184,
+          "line_end": 189
+        },
+        {
+          "level": 2,
+          "title": "<u>Teknik Untan</u>",
+          "line_start": 190,
+          "line_end": 202
+        },
+        {
+          "level": 2,
+          "title": "**BAB III METODOLOGI PENELITIAN**",
+          "line_start": 203,
+          "line_end": 204
+        },
+        {
+          "level": 2,
+          "title": "**3.1  Xxxxxxxx Xxxxx**",
+          "line_start": 205,
+          "line_end": 208
+        },
+        {
+          "level": 2,
+          "title": "**3.2  Jadwal Penelitian**",
+          "line_start": 209,
+          "line_end": 242
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR RUJUKAN**",
+          "line_start": 243,
+          "line_end": 257
+        }
+      ]
+    },
+    "dokumen/14-tamplate-skripsi.md": {
+      "title": "Tamplate Skripsi",
+      "total_lines": 513,
+      "headings_count": 57,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Tamplate Skripsi",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 1,
+          "title": "**JUDUL SKRIPSI HARUS DITULIS MENGGUNAKAN HURUF KAPITAL JENIS TIMES NEW ROMAN UKURAN 14 PT DICETAK TEBAL**",
+          "line_start": 22,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "**SKRIPSI**",
+          "line_start": 24,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "**HALAMAN PERNYATAAN**",
+          "line_start": 36,
+          "line_end": 55
+        },
+        {
+          "level": 2,
+          "title": "**HALAMAN PENGESAHAN**",
+          "line_start": 56,
+          "line_end": 81
+        },
+        {
+          "level": 2,
+          "title": "**HALAMAN PERSEMBAHAN**",
+          "line_start": 82,
+          "line_end": 91
+        },
+        {
+          "level": 2,
+          "title": "**PRAKATA**",
+          "line_start": 92,
+          "line_end": 107
+        },
+        {
+          "level": 2,
+          "title": "**ABSTRAK**",
+          "line_start": 108,
+          "line_end": 115
+        },
+        {
+          "level": 2,
+          "title": "**ABSTRACT**",
+          "line_start": 116,
+          "line_end": 123
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR ISI**",
+          "line_start": 124,
+          "line_end": 200
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR GAMBAR**",
+          "line_start": 201,
+          "line_end": 212
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR TABEL**",
+          "line_start": 213,
+          "line_end": 224
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR KODE PROGRAM**",
+          "line_start": 225,
+          "line_end": 236
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR LAMPIRAN**",
+          "line_start": 237,
+          "line_end": 248
+        },
+        {
+          "level": 2,
+          "title": "**GLOSARIUM**",
+          "line_start": 249,
+          "line_end": 254
+        },
+        {
+          "level": 2,
+          "title": "**BAB I PENDAHULUAN**",
+          "line_start": 255,
+          "line_end": 260
+        },
+        {
+          "level": 2,
+          "title": "**BAB II TINJAUAN PUSTAKA**",
+          "line_start": 261,
+          "line_end": 262
+        },
+        {
+          "level": 2,
+          "title": "**2.1 Xxxxxx**",
+          "line_start": 263,
+          "line_end": 268
+        },
+        {
+          "level": 2,
+          "title": "2.2.1 Xxx Xxxxx Xxxxx",
+          "line_start": 269,
+          "line_end": 274
+        },
+        {
+          "level": 2,
+          "title": "2.1.2 Xxx Xxxxx Xxxxx",
+          "line_start": 275,
+          "line_end": 286
+        },
+        {
+          "level": 2,
+          "title": "2.1.3 Xxx Xxxxx Xxxxx",
+          "line_start": 287,
+          "line_end": 290
+        },
+        {
+          "level": 2,
+          "title": "**2.2 Xxxx Xxxxxx Xxxxxx**",
+          "line_start": 291,
+          "line_end": 322
+        },
+        {
+          "level": 2,
+          "title": "**2.3 Xxxx Xxxxxx Xxxxxx**",
+          "line_start": 323,
+          "line_end": 328
+        },
+        {
+          "level": 2,
+          "title": "**2.4 Xxxx Xxxxxx Xxxxxx**",
+          "line_start": 329,
+          "line_end": 336
+        },
+        {
+          "level": 2,
+          "title": "**2.5 Xxxx Xxxxxx Xxxxxx**",
+          "line_start": 337,
+          "line_end": 344
+        },
+        {
+          "level": 2,
+          "title": "**BAB III METODOLOGI PENELITIAN**",
+          "line_start": 345,
+          "line_end": 346
+        },
+        {
+          "level": 2,
+          "title": "**3.1 Xxxxxx**",
+          "line_start": 347,
+          "line_end": 352
+        },
+        {
+          "level": 2,
+          "title": "**3.2 Xxxxxx**",
+          "line_start": 353,
+          "line_end": 358
+        },
+        {
+          "level": 2,
+          "title": "**3.3 Xxxxxx**",
+          "line_start": 359,
+          "line_end": 364
+        },
+        {
+          "level": 2,
+          "title": "**3.4 Xxxxxx**",
+          "line_start": 365,
+          "line_end": 370
+        },
+        {
+          "level": 2,
+          "title": "**3.5 Xxxxxx**",
+          "line_start": 371,
+          "line_end": 378
+        },
+        {
+          "level": 2,
+          "title": "**BAB IV HASIL DAN PEMBAHASAN**",
+          "line_start": 379,
+          "line_end": 380
+        },
+        {
+          "level": 2,
+          "title": "**4.1 Xxxxx**",
+          "line_start": 381,
+          "line_end": 386
+        },
+        {
+          "level": 2,
+          "title": "**4.2 Xxxxx**",
+          "line_start": 387,
+          "line_end": 392
+        },
+        {
+          "level": 2,
+          "title": "4.2.1 Xxxxx",
+          "line_start": 393,
+          "line_end": 398
+        },
+        {
+          "level": 2,
+          "title": "4.2.2 Xxxxx",
+          "line_start": 399,
+          "line_end": 404
+        },
+        {
+          "level": 2,
+          "title": "**4.3 Xxxxx**",
+          "line_start": 405,
+          "line_end": 410
+        },
+        {
+          "level": 2,
+          "title": "4.3.1 Xxxxx",
+          "line_start": 411,
+          "line_end": 416
+        },
+        {
+          "level": 2,
+          "title": "4.3.2 Xxxxx",
+          "line_start": 417,
+          "line_end": 424
+        },
+        {
+          "level": 2,
+          "title": "**BAB V PENUTUP**",
+          "line_start": 425,
+          "line_end": 426
+        },
+        {
+          "level": 2,
+          "title": "**5.1 Kesimpulan**",
+          "line_start": 427,
+          "line_end": 432
+        },
+        {
+          "level": 2,
+          "title": "**5.2 Saran**",
+          "line_start": 433,
+          "line_end": 440
+        },
+        {
+          "level": 2,
+          "title": "**DAFTAR RUJUKAN**",
+          "line_start": 441,
+          "line_end": 444
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran A Xxxxxxx xxxxxx**",
+          "line_start": 445,
+          "line_end": 448
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran B Xxxxx Xxxxxx**",
+          "line_start": 449,
+          "line_end": 452
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran C Xxxxx Xxxxxx**",
+          "line_start": 453,
+          "line_end": 460
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran E Xxxxx Xxxxxx**",
+          "line_start": 461,
+          "line_end": 464
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran F Xxxxxx Xxxxxx**",
+          "line_start": 465,
+          "line_end": 468
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran G Xxxx Xxxxxx**",
+          "line_start": 469,
+          "line_end": 472
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran H Xxxx Xxxxxx**",
+          "line_start": 473,
+          "line_end": 476
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran I Xxxxx Xxxxxx**",
+          "line_start": 477,
+          "line_end": 480
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran J Xxxxx Xxxxxx**",
+          "line_start": 481,
+          "line_end": 484
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran K Xxxxxx Xxxxxx**",
+          "line_start": 485,
+          "line_end": 488
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran L Xxxxx Xxxxxx**",
+          "line_start": 489,
+          "line_end": 496
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran N Xxxxxx Xxxxxx**",
+          "line_start": 497,
+          "line_end": 500
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran O Xxxxxx Xxxxxx**",
+          "line_start": 501,
+          "line_end": 504
+        },
+        {
+          "level": 1,
+          "title": "**Lampiran P Xxxxxx Xxxxxx**",
+          "line_start": 505,
+          "line_end": 513
+        }
+      ]
+    },
+    "dokumen/15-formulir-pengajuan-draft-proposal-tugas-akhir.md": {
+      "title": "Formulir Pengajuan Draft Proposal Tugas Akhir",
+      "total_lines": 147,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Formulir Pengajuan Draft Proposal Tugas Akhir",
+          "line_start": 13,
+          "line_end": 147
+        }
+      ]
+    },
+    "dokumen/16-format-draft-usulan-topik-tugas-akhir.md": {
+      "title": "Format Draft Usulan Topik Tugas Akhir",
+      "total_lines": 170,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Format Draft Usulan Topik Tugas Akhir",
+          "line_start": 13,
+          "line_end": 170
+        }
+      ]
+    },
+    "dokumen/17-prosedur-pengajuan-draft-proposal-skripsi.md": {
+      "title": "Prosedur Pengajuan Draft Proposal Skripsi",
+      "total_lines": 104,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Prosedur Pengajuan Draft Proposal Skripsi",
+          "line_start": 13,
+          "line_end": 104
+        }
+      ]
+    },
+    "dokumen/18-prosedur-pengajuan-draft-proposal-skripsi.md": {
+      "title": "Prosedur Pengajuan Draft Proposal Skripsi",
+      "total_lines": 106,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Prosedur Pengajuan Draft Proposal Skripsi",
+          "line_start": 13,
+          "line_end": 106
+        }
+      ]
+    },
+    "dokumen/19-prosedur-pengesahan-skripsi-dan-pendaftaran-wisuda.md": {
+      "title": "Prosedur Pengesahan Skripsi dan Pendaftaran Wisuda",
+      "total_lines": 108,
+      "headings_count": 7,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Prosedur Pengesahan Skripsi dan Pendaftaran Wisuda",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 4,
+          "title": "**Prosedur Pengesahan Skripsi dan Pendaftaran Wisuda Fakultas Teknik Universitas Tanjungpura Dalam Masa Penanggulangan KLB COVID-19**",
+          "line_start": 22,
+          "line_end": 23
+        },
+        {
+          "level": 4,
+          "title": "**1. Prosedur Keamanan Kesehatan**",
+          "line_start": 24,
+          "line_end": 73
+        },
+        {
+          "level": 3,
+          "title": "**<u>FORMAT PESAN WA UNTUK PERSETUJUAN DAN PENGESAHAN HASIL SKRIPSI</u>**",
+          "line_start": 74,
+          "line_end": 79
+        },
+        {
+          "level": 1,
+          "title": "**_<u>FORMAT LEMBAR PENGESAHAN  SKRIPSI</u>_**",
+          "line_start": 80,
+          "line_end": 83
+        },
+        {
+          "level": 2,
+          "title": "KEMENTERIAN PENDIDIKAN DAN KEBUDAYAAN UNIVERSITAS TANJUNGPURA **FAKULTAS TEKNIK**",
+          "line_start": 84,
+          "line_end": 87
+        },
+        {
+          "level": 4,
+          "title": "**<u>HALAMAN PENGESAHAN</u>**",
+          "line_start": 88,
+          "line_end": 108
+        }
+      ]
+    },
+    "dokumen/20-kalender-akademik-20252026.md": {
+      "title": "Kalender Akademik 2025/2026",
+      "total_lines": 139,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Kalender Akademik 2025/2026",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 1,
+          "title": "<mark>KEMENTERIAN PENDIDIKAN TINGGI, SAINS, DAN TEKNOLOGI</mark> **<mark>UNIVERSITAS TANJUNGPURA</mark>**",
+          "line_start": 22,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "KEPUTUSAN",
+          "line_start": 30,
+          "line_end": 31
+        },
+        {
+          "level": 2,
+          "title": "REKTOR UNIVERSITAS TANJUNGPURA",
+          "line_start": 32,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "TENTANG",
+          "line_start": 36,
+          "line_end": 37
+        },
+        {
+          "level": 2,
+          "title": "KALENDER AKADEMIK PROGRAM DIPLOMA DAN PROGRAM SARJANA UNIVERSITAS TANJUNGPURA TAHUN AKADEMIK 2025/2026",
+          "line_start": 38,
+          "line_end": 139
+        }
+      ]
+    },
+    "dokumen/21-kalender-akademik-ta-20262027.md": {
+      "title": "Kalender Akademik TA 2026/2027",
+      "total_lines": 163,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Kalender Akademik TA 2026/2027",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 1,
+          "title": "<mark>KEMENTERIAN PENDIDIKAN TINGGI, SAINS, DAN TEKNOLOGI</mark> **<mark>UNIVERSITAS TANJUNGPURA</mark>**",
+          "line_start": 22,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "KEPUTUSAN REKTOR",
+          "line_start": 30,
+          "line_end": 152
+        },
+        {
+          "level": 2,
+          "title": "REKTOR UNIVERSITAS TANJUNGPURA,",
+          "line_start": 153,
+          "line_end": 163
+        }
+      ]
+    },
+    "dokumen/22-akreditasi-informatika-tahun-2017-2022.md": {
+      "title": "Akreditasi Informatika Tahun 2017-2022",
+      "total_lines": 29,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Akreditasi Informatika Tahun 2017-2022",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 2,
+          "title": "Isi Sertifikat Akreditasi BAN-PT (2017–2022)",
+          "line_start": 22,
+          "line_end": 29
+        }
+      ]
+    },
+    "dokumen/23-akreditasi-informatika-tahun-2013-2018.md": {
+      "title": "Akreditasi Informatika Tahun 2013-2018",
+      "total_lines": 29,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Akreditasi Informatika Tahun 2013-2018",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 2,
+          "title": "Isi Sertifikat Akreditasi BAN-PT (2013–2018)",
+          "line_start": 22,
+          "line_end": 29
+        }
+      ]
+    },
+    "dokumen/24-akreditasi-informatika-tahun-2006-2011.md": {
+      "title": "Akreditasi Informatika Tahun 2006-2011 (Arsip Referensi)",
+      "total_lines": 24,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Akreditasi Informatika Tahun 2006-2011 (Arsip Referensi)",
+          "line_start": 13,
+          "line_end": 21
+        },
+        {
+          "level": 2,
+          "title": "Catatan Verifikasi Berkas",
+          "line_start": 22,
+          "line_end": 24
+        }
+      ]
+    },
+    "dokumen/25-akreditasi-informatika-tahun-2022-2027.md": {
+      "title": "Akreditasi Informatika Tahun 2022-2027",
+      "total_lines": 33,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Akreditasi Informatika Tahun 2022-2027",
+          "line_start": 13,
+          "line_end": 33
+        }
+      ]
+    },
+    "dokumen/26-sertifikat-keanggotaan-aptikom-2027.md": {
+      "title": "Sertifikat Keanggotaan APTIKOM 2027",
+      "total_lines": 26,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Sertifikat Keanggotaan APTIKOM 2027",
+          "line_start": 13,
+          "line_end": 26
+        }
+      ]
+    },
+    "dokumen/README.md": {
+      "title": "Katalog Berkas Resmi & Dokumen Akademik Informatika UNTAN",
+      "total_lines": 42,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Katalog Berkas Resmi & Dokumen Akademik Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 38
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 39,
+          "line_end": 42
+        }
+      ]
+    },
+    "dosen/README.md": {
+      "title": "Direktori Dosen & Tenaga Pengajar Informatika UNTAN",
+      "total_lines": 79,
+      "headings_count": 7,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Direktori Dosen & Tenaga Pengajar Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "Computation & Artificial Intelligence (AI & Komputasi)",
+          "line_start": 7,
+          "line_end": 21
+        },
+        {
+          "level": 2,
+          "title": "Software Engineering & Mobile Computing (RPL & Mobile)",
+          "line_start": 22,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "Networking & Security (Jaringan & Keamanan Sistem)",
+          "line_start": 36,
+          "line_end": 48
+        },
+        {
+          "level": 2,
+          "title": "Information System & Data Spatial (Sistem Informasi & Data Spasial)",
+          "line_start": 49,
+          "line_end": 63
+        },
+        {
+          "level": 2,
+          "title": "Dosen Baru & Penempatan Lintas Bidang",
+          "line_start": 64,
+          "line_end": 74
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 75,
+          "line_end": 79
+        }
+      ]
+    },
+    "dosen/ai-komputasi/arif-bijaksana-putra-negara.md": {
+      "title": "Dr. Arif Bijaksana Putra Negara, S.T., M.T.",
+      "total_lines": 92,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Dr. Arif Bijaksana Putra Negara, S.T., M.T.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 47
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 48,
+          "line_end": 61
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 62,
+          "line_end": 73
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 74,
+          "line_end": 87
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 88,
+          "line_end": 92
+        }
+      ]
+    },
+    "dosen/ai-komputasi/helen-sastypratiwi.md": {
+      "title": "Helen Sastypratiwi, S.T., M.Eng.",
+      "total_lines": 89,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Helen Sastypratiwi, S.T., M.Eng.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 42
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 43,
+          "line_end": 58
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 59,
+          "line_end": 70
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 71,
+          "line_end": 84
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 85,
+          "line_end": 89
+        }
+      ]
+    },
+    "dosen/ai-komputasi/herry-sujaini.md": {
+      "title": "Prof. Dr. Herry Sujaini, S.T., M.T.",
+      "total_lines": 102,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Prof. Dr. Herry Sujaini, S.T., M.T.",
+          "line_start": 19,
+          "line_end": 20
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 21,
+          "line_end": 28
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 29,
+          "line_end": 34
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 35,
+          "line_end": 55
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 56,
+          "line_end": 71
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 72,
+          "line_end": 83
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 84,
+          "line_end": 97
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 98,
+          "line_end": 102
+        }
+      ]
+    },
+    "dosen/ai-komputasi/ibnu-arif.md": {
+      "title": "Ibnu Arif, S.Kom., M.Kom.",
+      "total_lines": 58,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Ibnu Arif, S.Kom., M.Kom.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 34
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 35,
+          "line_end": 41
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 42,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 47,
+          "line_end": 53
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 54,
+          "line_end": 58
+        }
+      ]
+    },
+    "dosen/ai-komputasi/izuardo-zulkarnain.md": {
+      "title": "Izuardo Zulkarnain, S.Pd., M.T.",
+      "total_lines": 63,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Izuardo Zulkarnain, S.Pd., M.T.",
+          "line_start": 18,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 20,
+          "line_end": 27
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 28,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 34,
+          "line_end": 38
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 39,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 47,
+          "line_end": 51
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 52,
+          "line_end": 58
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 59,
+          "line_end": 63
+        }
+      ]
+    },
+    "dosen/ai-komputasi/niken-candraningrum.md": {
+      "title": "Niken Candraningrum, S.T., M.Cs.",
+      "total_lines": 68,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Niken Candraningrum, S.T., M.Cs.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 36,
+          "line_end": 47
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 48,
+          "line_end": 55
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 56,
+          "line_end": 63
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 64,
+          "line_end": 68
+        }
+      ]
+    },
+    "dosen/ai-komputasi/rina-septiriana.md": {
+      "title": "Rina Septiriana, S.T., M.Cs.",
+      "total_lines": 74,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Rina Septiriana, S.T., M.Cs.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 38
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 39,
+          "line_end": 48
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 49,
+          "line_end": 56
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 57,
+          "line_end": 69
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 70,
+          "line_end": 74
+        }
+      ]
+    },
+    "dosen/ai-komputasi/tursina.md": {
+      "title": "Tursina, S.T., M.Cs.",
+      "total_lines": 117,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Tursina, S.T., M.Cs.",
+          "line_start": 18,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 20,
+          "line_end": 27
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 28,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 34,
+          "line_end": 70
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 71,
+          "line_end": 86
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 87,
+          "line_end": 98
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 99,
+          "line_end": 112
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 113,
+          "line_end": 117
+        }
+      ]
+    },
+    "dosen/index.md": {
+      "title": "Daftar Dosen Informatika UNTAN",
+      "total_lines": 43,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Daftar Dosen Informatika UNTAN",
+          "line_start": 5,
+          "line_end": 43
+        }
+      ]
+    },
+    "dosen/jaringan-keamanan/alfian-abdul-jalid.md": {
+      "title": "Alfian Abdul Jalid, S.Kom., M.Cs.",
+      "total_lines": 61,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Alfian Abdul Jalid, S.Kom., M.Cs.",
+          "line_start": 20,
+          "line_end": 21
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 22,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 36,
+          "line_end": 40
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 41,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 47,
+          "line_end": 51
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 52,
+          "line_end": 56
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 57,
+          "line_end": 61
+        }
+      ]
+    },
+    "dosen/jaringan-keamanan/haried-novriando.md": {
+      "title": "Haried Novriando, S.Kom., M.Eng.",
+      "total_lines": 87,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Haried Novriando, S.Kom., M.Eng.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 40
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 41,
+          "line_end": 56
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 57,
+          "line_end": 68
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 69,
+          "line_end": 82
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 83,
+          "line_end": 87
+        }
+      ]
+    },
+    "dosen/jaringan-keamanan/helfi-nasution.md": {
+      "title": "Helfi Nasution, S.Kom, M.Cs",
+      "total_lines": 90,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Helfi Nasution, S.Kom, M.Cs",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 43
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 44,
+          "line_end": 59
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 60,
+          "line_end": 71
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 72,
+          "line_end": 85
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 86,
+          "line_end": 90
+        }
+      ]
+    },
+    "dosen/jaringan-keamanan/heri-priyanto.md": {
+      "title": "Heri Priyanto, S.T., M.T.",
+      "total_lines": 91,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Heri Priyanto, S.T., M.T.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 44
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 45,
+          "line_end": 60
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 61,
+          "line_end": 72
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 73,
+          "line_end": 86
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 87,
+          "line_end": 91
+        }
+      ]
+    },
+    "dosen/jaringan-keamanan/m-azhar-irwansyah.md": {
+      "title": "Ir. M. Azhar Irwansyah, S.T., M.Eng.",
+      "total_lines": 93,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Ir. M. Azhar Irwansyah, S.T., M.Eng.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 47,
+          "line_end": 62
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 63,
+          "line_end": 74
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 75,
+          "line_end": 88
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 89,
+          "line_end": 93
+        }
+      ]
+    },
+    "dosen/jaringan-keamanan/rickhy-artha-octaviyana.md": {
+      "title": "Ir. Rickhy Artha Octaviyana, S.Kom., M.M., M.Kom.",
+      "total_lines": 73,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Ir. Rickhy Artha Octaviyana, S.Kom., M.M., M.Kom.",
+          "line_start": 20,
+          "line_end": 21
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 22,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 36,
+          "line_end": 41
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 42,
+          "line_end": 54
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 55,
+          "line_end": 60
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 61,
+          "line_end": 68
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 69,
+          "line_end": 73
+        }
+      ]
+    },
+    "dosen/rpl-mobile/anggi-perwitasari.md": {
+      "title": "Anggi Perwitasari, S.T., M.T.",
+      "total_lines": 87,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Anggi Perwitasari, S.T., M.T.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 40
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 41,
+          "line_end": 56
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 57,
+          "line_end": 68
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 69,
+          "line_end": 82
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 83,
+          "line_end": 87
+        }
+      ]
+    },
+    "dosen/rpl-mobile/desepta-isna-ulumi.md": {
+      "title": "Desepta Isna Ulumi, S.Kom., M.Kom.",
+      "total_lines": 86,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Desepta Isna Ulumi, S.Kom., M.Kom.",
+          "line_start": 18,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 20,
+          "line_end": 27
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 28,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 34,
+          "line_end": 42
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 43,
+          "line_end": 58
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 59,
+          "line_end": 69
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 70,
+          "line_end": 81
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 82,
+          "line_end": 86
+        }
+      ]
+    },
+    "dosen/rpl-mobile/hengky-anra.md": {
+      "title": "H. Hengky Anra, S.T., M.Kom.",
+      "total_lines": 87,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "H. Hengky Anra, S.T., M.Kom.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 42
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 43,
+          "line_end": 57
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 58,
+          "line_end": 68
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 69,
+          "line_end": 82
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 83,
+          "line_end": 87
+        }
+      ]
+    },
+    "dosen/rpl-mobile/khairul-hafidh.md": {
+      "title": "Khairul Hafidh, S.T., M.Kom.",
+      "total_lines": 65,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Khairul Hafidh, S.T., M.Kom.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 36
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 37,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 47,
+          "line_end": 53
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 54,
+          "line_end": 60
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 61,
+          "line_end": 65
+        }
+      ]
+    },
+    "dosen/rpl-mobile/m-tsanauddin-farid.md": {
+      "title": "M. Tsanauddin Farid, S.Kom., M.Eng.",
+      "total_lines": 67,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "M. Tsanauddin Farid, S.Kom., M.Eng.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 36,
+          "line_end": 49
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 50,
+          "line_end": 55
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 56,
+          "line_end": 62
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 63,
+          "line_end": 67
+        }
+      ]
+    },
+    "dosen/rpl-mobile/novi-safriadi.md": {
+      "title": "Novi Safriadi, S.T., M.T.",
+      "total_lines": 93,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Novi Safriadi, S.T., M.T.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 47,
+          "line_end": 62
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 63,
+          "line_end": 74
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 75,
+          "line_end": 88
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 89,
+          "line_end": 93
+        }
+      ]
+    },
+    "dosen/rpl-mobile/rudy-dwi-nyoto.md": {
+      "title": "Rudy Dwi Nyoto, S.T., M.Eng.",
+      "total_lines": 85,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Rudy Dwi Nyoto, S.T., M.Eng.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 39
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 40,
+          "line_end": 55
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 56,
+          "line_end": 66
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 67,
+          "line_end": 80
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 81,
+          "line_end": 85
+        }
+      ]
+    },
+    "dosen/si-spasial/anggi-srimurdianti.md": {
+      "title": "Anggi Srimurdianti S., S.T., M.T.",
+      "total_lines": 83,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Anggi Srimurdianti S., S.T., M.T.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 42
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 43,
+          "line_end": 58
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 59,
+          "line_end": 64
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 65,
+          "line_end": 78
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 79,
+          "line_end": 83
+        }
+      ]
+    },
+    "dosen/si-spasial/enda-esyudha-pratama.md": {
+      "title": "Enda Esyudha Pratama, S.T., M.T.",
+      "total_lines": 88,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Enda Esyudha Pratama, S.T., M.T.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 41
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 42,
+          "line_end": 57
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 58,
+          "line_end": 69
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 70,
+          "line_end": 83
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 84,
+          "line_end": 88
+        }
+      ]
+    },
+    "dosen/si-spasial/eva-faja-ripanti.md": {
+      "title": "Eva Faja Ripanti, S.Kom. MMSI., Ph.D",
+      "total_lines": 95,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Eva Faja Ripanti, S.Kom. MMSI., Ph.D",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 48
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 49,
+          "line_end": 64
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 65,
+          "line_end": 76
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 77,
+          "line_end": 90
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 91,
+          "line_end": 95
+        }
+      ]
+    },
+    "dosen/si-spasial/fauzan-asrin.md": {
+      "title": "Fauzan Asrin, S.Kom., M.Kom.",
+      "total_lines": 86,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Fauzan Asrin, S.Kom., M.Kom.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 39
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 40,
+          "line_end": 55
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 56,
+          "line_end": 67
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 68,
+          "line_end": 81
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 82,
+          "line_end": 86
+        }
+      ]
+    },
+    "dosen/si-spasial/morteza-muthahhari.md": {
+      "title": "Morteza Muthahhari, S.Kom., M.T.I.",
+      "total_lines": 94,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Morteza Muthahhari, S.Kom., M.T.I.",
+          "line_start": 20,
+          "line_end": 21
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 22,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 36,
+          "line_end": 47
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 48,
+          "line_end": 63
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 64,
+          "line_end": 75
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 76,
+          "line_end": 89
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 90,
+          "line_end": 94
+        }
+      ]
+    },
+    "dosen/si-spasial/rifqi-anugrah.md": {
+      "title": "Rifqi Anugrah, S.Kom., M.Kom.",
+      "total_lines": 71,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Rifqi Anugrah, S.Kom., M.Kom.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 36
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 37,
+          "line_end": 49
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 50,
+          "line_end": 57
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 58,
+          "line_end": 66
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 67,
+          "line_end": 71
+        }
+      ]
+    },
+    "dosen/si-spasial/yulianti.md": {
+      "title": "Yulianti, S.Kom, MMSI.",
+      "total_lines": 105,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Yulianti, S.Kom, MMSI.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 58
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 59,
+          "line_end": 74
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 75,
+          "line_end": 86
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 87,
+          "line_end": 100
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 101,
+          "line_end": 105
+        }
+      ]
+    },
+    "dosen/si-spasial/yus-sholva.md": {
+      "title": "Dr. Ir. Yus Sholva, S.T., M.T.",
+      "total_lines": 95,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Dr. Ir. Yus Sholva, S.T., M.T.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 48
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 49,
+          "line_end": 64
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 65,
+          "line_end": 76
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 77,
+          "line_end": 90
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 91,
+          "line_end": 95
+        }
+      ]
+    },
+    "dosen/umum/andrean-taufik.md": {
+      "title": "Andrean Taufik, S.Kom., M.T.I.",
+      "total_lines": 30,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Andrean Taufik, S.Kom., M.T.I.",
+          "line_start": 14,
+          "line_end": 15
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 16,
+          "line_end": 22
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Akademik",
+          "line_start": 23,
+          "line_end": 25
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 26,
+          "line_end": 30
+        }
+      ]
+    },
+    "dosen/umum/dimas-apriyandi.md": {
+      "title": "Dimas Apriyandi, S.Kom., M.Sc.",
+      "total_lines": 64,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Dimas Apriyandi, S.Kom., M.Sc.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 36
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 37,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 47,
+          "line_end": 52
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 53,
+          "line_end": 59
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 60,
+          "line_end": 64
+        }
+      ]
+    },
+    "dosen/umum/enriko-yudhistira-ramadhan.md": {
+      "title": "Enriko Yudhistira Ramadhan, S.Kom., M.T.",
+      "total_lines": 57,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Enriko Yudhistira Ramadhan, S.Kom., M.T.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 36,
+          "line_end": 41
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 42,
+          "line_end": 46
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 47,
+          "line_end": 52
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 53,
+          "line_end": 57
+        }
+      ]
+    },
+    "dosen/umum/rizki-firdaus-mulya.md": {
+      "title": "Rizki Firdaus Mulya, S.Kom., M.Kom.",
+      "total_lines": 68,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Rizki Firdaus Mulya, S.Kom., M.Kom.",
+          "line_start": 15,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata Resmi",
+          "line_start": 17,
+          "line_end": 23
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Riset & Publikasi (OpenAlex)",
+          "line_start": 24,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "Tren Publikasi per Tahun",
+          "line_start": 30,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "Jaringan Kolaborasi (Top 12)",
+          "line_start": 36,
+          "line_end": 49
+        },
+        {
+          "level": 2,
+          "title": "Venue / Jurnal Favorit",
+          "line_start": 50,
+          "line_end": 56
+        },
+        {
+          "level": 2,
+          "title": "Publikasi Teratas (by citations)",
+          "line_start": 57,
+          "line_end": 63
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 64,
+          "line_end": 68
+        }
+      ]
+    },
+    "fasilitas-lab/README.md": {
+      "title": "Direktori Fasilitas Laboratorium & Riset Keahlian",
+      "total_lines": 12,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Direktori Fasilitas Laboratorium & Riset Keahlian",
+          "line_start": 1,
+          "line_end": 8
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 9,
+          "line_end": 12
+        }
+      ]
+    },
+    "fasilitas-lab/kelompok-bidang-keahlian.md": {
+      "title": "4 Kelompok Bidang Keahlian (KBK) Informatika UNTAN",
+      "total_lines": 67,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "4 Kelompok Bidang Keahlian (KBK) Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Computation & Artificial Intelligence (AI & Komputasi)",
+          "line_start": 7,
+          "line_end": 21
+        },
+        {
+          "level": 2,
+          "title": "2. Software Engineering & Mobile Computing (RPL & Mobile)",
+          "line_start": 22,
+          "line_end": 35
+        },
+        {
+          "level": 2,
+          "title": "3. Networking & Security (Jaringan & Keamanan Sistem)",
+          "line_start": 36,
+          "line_end": 48
+        },
+        {
+          "level": 2,
+          "title": "4. Information System & Data Spatial (Sistem Informasi & Data Spasial)",
+          "line_start": 49,
+          "line_end": 63
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 64,
+          "line_end": 67
+        }
+      ]
+    },
+    "fasilitas-lab/laboratorium.md": {
+      "title": "Fasilitas Laboratorium Pembelajaran & Riset Informatika UNTAN",
+      "total_lines": 45,
+      "headings_count": 7,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Fasilitas Laboratorium Pembelajaran & Riset Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Laboratorium Komputer & Pemrograman Dasar (Lab Komputasi Dasar)",
+          "line_start": 7,
+          "line_end": 13
+        },
+        {
+          "level": 2,
+          "title": "2. Laboratorium Komputasi & Kecerdasan Buatan (Lab AI & Cerdas)",
+          "line_start": 14,
+          "line_end": 20
+        },
+        {
+          "level": 2,
+          "title": "3. Laboratorium Rekayasa Data & Perangkat Lunak (Lab RPL)",
+          "line_start": 21,
+          "line_end": 27
+        },
+        {
+          "level": 2,
+          "title": "4. Laboratorium Teknologi & Sistem Informasi (Lab SI)",
+          "line_start": 28,
+          "line_end": 34
+        },
+        {
+          "level": 2,
+          "title": "5. Laboratorium Jaringan, Keamanan Data & IoT (Lab Network & Security)",
+          "line_start": 35,
+          "line_end": 41
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 42,
+          "line_end": 45
+        }
+      ]
+    },
+    "kemahasiswaan/README.md": {
+      "title": "Direktori Kemahasiswaan & Jaringan Alumni",
+      "total_lines": 17,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Direktori Kemahasiswaan & Jaringan Alumni",
+          "line_start": 1,
+          "line_end": 13
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 14,
+          "line_end": 17
+        }
+      ]
+    },
+    "kemahasiswaan/adjie-prasetya.md": {
+      "title": "Profil Mahasiswa & Pengembang: Adjie Prasetya",
+      "total_lines": 44,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Profil Mahasiswa & Pengembang: Adjie Prasetya",
+          "line_start": 15,
+          "line_end": 20
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata & Tautan Resmi",
+          "line_start": 21,
+          "line_end": 30
+        },
+        {
+          "level": 2,
+          "title": "2. Peran & Kontribusi pada Pengembangan Luco",
+          "line_start": 31,
+          "line_end": 39
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 40,
+          "line_end": 44
+        }
+      ]
+    },
+    "kemahasiswaan/alumni-tracer-study.md": {
+      "title": "Ikatan Alumni & Hasil Tracer Study Informatika UNTAN",
+      "total_lines": 37,
+      "headings_count": 5,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Ikatan Alumni & Hasil Tracer Study Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 2
+        },
+        {
+          "level": 2,
+          "title": "1. Ikatan Keluarga Alumni (IKA) Informatika",
+          "line_start": 3,
+          "line_end": 9
+        },
+        {
+          "level": 2,
+          "title": "2. Profil Alumni Berprestasi",
+          "line_start": 10,
+          "line_end": 17
+        },
+        {
+          "level": 2,
+          "title": "3. Sebaran Karier Lulusan (Tracer Study Resmi)",
+          "line_start": 18,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 34,
+          "line_end": 37
+        }
+      ]
+    },
+    "kemahasiswaan/andrean-stephanus.md": {
+      "title": "Profil Mahasiswa & Pengembang: Andrean Stephanus",
+      "total_lines": 49,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Profil Mahasiswa & Pengembang: Andrean Stephanus",
+          "line_start": 17,
+          "line_end": 22
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata & Tautan Resmi",
+          "line_start": 23,
+          "line_end": 36
+        },
+        {
+          "level": 2,
+          "title": "2. Peran & Kontribusi pada Pengembangan Luco",
+          "line_start": 37,
+          "line_end": 44
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 45,
+          "line_end": 49
+        }
+      ]
+    },
+    "kemahasiswaan/balin-niswah.md": {
+      "title": "Profil Mahasiswa: Balin Niswah",
+      "total_lines": 39,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Profil Mahasiswa: Balin Niswah",
+          "line_start": 12,
+          "line_end": 17
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata & Tautan Resmi",
+          "line_start": 18,
+          "line_end": 25
+        },
+        {
+          "level": 2,
+          "title": "2. Peran & Kontribusi pada Sejarah Luco",
+          "line_start": 26,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 34,
+          "line_end": 39
+        }
+      ]
+    },
+    "kemahasiswaan/edwin-hermili.md": {
+      "title": "Profil Mahasiswa & Pengembang: Edwin Hermili",
+      "total_lines": 49,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Profil Mahasiswa & Pengembang: Edwin Hermili",
+          "line_start": 14,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "1. Biodata & Tautan Resmi",
+          "line_start": 20,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "2. Peran & Kontribusi pada Pengembangan Luco",
+          "line_start": 34,
+          "line_end": 44
+        },
+        {
+          "level": 2,
+          "title": "3. Tautan Terkait",
+          "line_start": 45,
+          "line_end": 49
+        }
+      ]
+    },
+    "kemahasiswaan/hmif.md": {
+      "title": "Himpunan Mahasiswa Informatika (HMIF) FT UNTAN",
+      "total_lines": 88,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Himpunan Mahasiswa Informatika (HMIF) FT UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Profil & Ekosistem Organisasi",
+          "line_start": 7,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "2. 6 Bidang Divisi Kepengurusan HMIF",
+          "line_start": 20,
+          "line_end": 49
+        },
+        {
+          "level": 2,
+          "title": "3. Kelompok Studi Resmi (*Study Club*)",
+          "line_start": 50,
+          "line_end": 67
+        },
+        {
+          "level": 2,
+          "title": "4. Kalender Kegiatan Unggulan Tahunan",
+          "line_start": 68,
+          "line_end": 83
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 84,
+          "line_end": 88
+        }
+      ]
+    },
+    "kemahasiswaan/ragil-amirzaky.md": {
+      "title": "Profil Mahasiswa & Pengembang: Ragil Amirzaky",
+      "total_lines": 129,
+      "headings_count": 14,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Profil Mahasiswa & Pengembang: Ragil Amirzaky",
+          "line_start": 35,
+          "line_end": 42
+        },
+        {
+          "level": 2,
+          "title": "🎓 Identitas Akademik & Prestasi",
+          "line_start": 43,
+          "line_end": 54
+        },
+        {
+          "level": 2,
+          "title": "🐦 Peran dan Kontribusi pada Luco",
+          "line_start": 55,
+          "line_end": 66
+        },
+        {
+          "level": 2,
+          "title": "💻 Portofolio Sistem & Proyek Rekayasa Unggulan",
+          "line_start": 67,
+          "line_end": 68
+        },
+        {
+          "level": 3,
+          "title": "1. Luco (Chatbot RAG Informatika UNTAN)",
+          "line_start": 69,
+          "line_end": 72
+        },
+        {
+          "level": 3,
+          "title": "2. REGtee Cloud (Sovereign PaaS / IaaS Platform)",
+          "line_start": 73,
+          "line_end": 77
+        },
+        {
+          "level": 3,
+          "title": "3. Chronicles-OJ (Online Judge System)",
+          "line_start": 78,
+          "line_end": 82
+        },
+        {
+          "level": 3,
+          "title": "4. REGtee HyTerra (Smart Agriculture & Adaptive LMS)",
+          "line_start": 83,
+          "line_end": 87
+        },
+        {
+          "level": 3,
+          "title": "5. Kitasan Doorlock (Hardened IoT Access Control Service)",
+          "line_start": 88,
+          "line_end": 92
+        },
+        {
+          "level": 3,
+          "title": "6. Fedora Backup Tools",
+          "line_start": 93,
+          "line_end": 97
+        },
+        {
+          "level": 3,
+          "title": "7. Bare-Metal Homelab Enterprise-Grade Virtualization Cluster",
+          "line_start": 98,
+          "line_end": 102
+        },
+        {
+          "level": 2,
+          "title": "🛠️ Matriks Keahlian Teknis",
+          "line_start": 103,
+          "line_end": 110
+        },
+        {
+          "level": 2,
+          "title": "🌐 Tautan Profil & Kontak Resmi",
+          "line_start": 111,
+          "line_end": 123
+        },
+        {
+          "level": 2,
+          "title": "🔗 Dokumen Terkait",
+          "line_start": 124,
+          "line_end": 129
+        }
+      ]
+    },
+    "kp-ta/README.md": {
+      "title": "Direktori Kerja Praktik (KP) & Tugas Akhir (TA)",
+      "total_lines": 13,
+      "headings_count": 2,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Direktori Kerja Praktik (KP) & Tugas Akhir (TA)",
+          "line_start": 1,
+          "line_end": 9
+        },
+        {
+          "level": 2,
+          "title": "Rujukan Lintas Dokumen",
+          "line_start": 10,
+          "line_end": 13
+        }
+      ]
+    },
+    "kp-ta/index.md": {
+      "title": "Indeks Kerja Praktik (KP) & Tugas Akhir (TA)",
+      "total_lines": 47,
+      "headings_count": 5,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Indeks Kerja Praktik (KP) & Tugas Akhir (TA)",
+          "line_start": 6,
+          "line_end": 11
+        },
+        {
+          "level": 2,
+          "title": "💼 1. Kerja Praktik (KP)",
+          "line_start": 12,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "🎓 2. Tugas Akhir & Skripsi (TA)",
+          "line_start": 20,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "📄 3. Template & Format Dokumen Resmi",
+          "line_start": 34,
+          "line_end": 41
+        },
+        {
+          "level": 2,
+          "title": "🔗 Tautan Terkait",
+          "line_start": 42,
+          "line_end": 47
+        }
+      ]
+    },
+    "kp-ta/panduan-kp.md": {
+      "title": "Panduan Kerja Praktik (KP) Informatika UNTAN",
+      "total_lines": 105,
+      "headings_count": 10,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Panduan Kerja Praktik (KP) Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Ketentuan & Persyaratan Mengikuti KP",
+          "line_start": 7,
+          "line_end": 17
+        },
+        {
+          "level": 2,
+          "title": "2. Berkas Pengajuan Kerja Praktik",
+          "line_start": 18,
+          "line_end": 28
+        },
+        {
+          "level": 2,
+          "title": "3. Alur 12 Langkah Prosedur Kerja Praktik",
+          "line_start": 29,
+          "line_end": 50
+        },
+        {
+          "level": 2,
+          "title": "4. Ketentuan Bimbingan & Pembobotan Nilai",
+          "line_start": 51,
+          "line_end": 52
+        },
+        {
+          "level": 3,
+          "title": "A. Frekuensi Bimbingan Minimal",
+          "line_start": 53,
+          "line_end": 56
+        },
+        {
+          "level": 3,
+          "title": "B. Komponen Penilaian Pembimbing Lapangan (KP-IF-06)",
+          "line_start": 57,
+          "line_end": 69
+        },
+        {
+          "level": 2,
+          "title": "5. Roster Formulir Resmi Kerja Praktik (KP-IF)",
+          "line_start": 70,
+          "line_end": 88
+        },
+        {
+          "level": 2,
+          "title": "6. Sistematika Laporan Kerja Praktik",
+          "line_start": 89,
+          "line_end": 100
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 101,
+          "line_end": 105
+        }
+      ]
+    },
+    "kp-ta/panduan-ta.md": {
+      "title": "Panduan Tugas Akhir & Skripsi Informatika UNTAN",
+      "total_lines": 158,
+      "headings_count": 16,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Panduan Tugas Akhir & Skripsi Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Persyaratan Pengajuan Tugas Akhir",
+          "line_start": 7,
+          "line_end": 13
+        },
+        {
+          "level": 2,
+          "title": "2. Alur Pengajuan Draft Proposal via SPOTA",
+          "line_start": 14,
+          "line_end": 27
+        },
+        {
+          "level": 3,
+          "title": "Tahapan Detail Pengajuan:",
+          "line_start": 28,
+          "line_end": 45
+        },
+        {
+          "level": 2,
+          "title": "3. Sistematika Penulisan Proposal & Skripsi (Pedoman 2022 FT UNTAN)",
+          "line_start": 46,
+          "line_end": 49
+        },
+        {
+          "level": 3,
+          "title": "A. Bagian Pendahuluan (Bagian Awal)",
+          "line_start": 50,
+          "line_end": 60
+        },
+        {
+          "level": 3,
+          "title": "B. Bagian Isi Naskah",
+          "line_start": 61,
+          "line_end": 92
+        },
+        {
+          "level": 3,
+          "title": "C. Bagian Akhir",
+          "line_start": 93,
+          "line_end": 98
+        },
+        {
+          "level": 2,
+          "title": "4. Format Fisik & Tipografi Naskah (FT UNTAN)",
+          "line_start": 99,
+          "line_end": 118
+        },
+        {
+          "level": 2,
+          "title": "5. Prosedur Pasca-Sidang, Pengesahan Skripsi & Pendaftaran Wisuda",
+          "line_start": 119,
+          "line_end": 122
+        },
+        {
+          "level": 3,
+          "title": "Langkah 1: Revisi & Validasi WhatsApp Tim Skripsi",
+          "line_start": 123,
+          "line_end": 129
+        },
+        {
+          "level": 3,
+          "title": "Langkah 2: Pengesahan Skripsi Dekanat",
+          "line_start": 130,
+          "line_end": 132
+        },
+        {
+          "level": 3,
+          "title": "Langkah 3: Penyerahan Naskah & Bebas Pustaka",
+          "line_start": 133,
+          "line_end": 139
+        },
+        {
+          "level": 3,
+          "title": "Langkah 4: Publikasi Artikel Ilmiah",
+          "line_start": 140,
+          "line_end": 142
+        },
+        {
+          "level": 3,
+          "title": "Langkah 5: Pembayaran Baju Toga & Pendaftaran Wisuda",
+          "line_start": 143,
+          "line_end": 152
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 153,
+          "line_end": 158
+        }
+      ]
+    },
+    "kp-ta/template/template-laporan-kp.md": {
+      "title": "Template Dokumen Laporan Kerja Praktik (KP) Informatika UNTAN",
+      "total_lines": 93,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Template Dokumen Laporan Kerja Praktik (KP) Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Format Halaman Judul (Cover) Laporan KP",
+          "line_start": 7,
+          "line_end": 32
+        },
+        {
+          "level": 2,
+          "title": "2. Format Lembar Pengesahan Laporan KP",
+          "line_start": 33,
+          "line_end": 64
+        },
+        {
+          "level": 2,
+          "title": "3. Format Catatan Harian (Logbook Mingguan) KP",
+          "line_start": 65,
+          "line_end": 79
+        },
+        {
+          "level": 2,
+          "title": "4. Sistematika Bab Laporan KP",
+          "line_start": 80,
+          "line_end": 89
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 90,
+          "line_end": 93
+        }
+      ]
+    },
+    "kp-ta/template/template-laporan-skripsi.md": {
+      "title": "Template Dokumen Laporan Skripsi Lengkap Informatika UNTAN",
+      "total_lines": 75,
+      "headings_count": 5,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Template Dokumen Laporan Skripsi Lengkap Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Susunan Bagian Awal Skripsi",
+          "line_start": 7,
+          "line_end": 43
+        },
+        {
+          "level": 2,
+          "title": "2. Susunan Bagian Utama (Bab I s.d. Bab V)",
+          "line_start": 44,
+          "line_end": 59
+        },
+        {
+          "level": 2,
+          "title": "3. Bagian Akhir Skripsi",
+          "line_start": 60,
+          "line_end": 71
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 72,
+          "line_end": 75
+        }
+      ]
+    },
+    "kp-ta/template/template-proposal-ta.md": {
+      "title": "Template Dokumen Proposal Tugas Akhir Informatika UNTAN",
+      "total_lines": 92,
+      "headings_count": 9,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Template Dokumen Proposal Tugas Akhir Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Format Halaman Judul (Cover)",
+          "line_start": 7,
+          "line_end": 29
+        },
+        {
+          "level": 2,
+          "title": "2. Format Lembar Persetujuan Proposal",
+          "line_start": 30,
+          "line_end": 60
+        },
+        {
+          "level": 2,
+          "title": "3. Sistematika Isi Proposal (Bab I s.d. Bab III)",
+          "line_start": 61,
+          "line_end": 64
+        },
+        {
+          "level": 3,
+          "title": "BAB I PENDAHULUAN",
+          "line_start": 65,
+          "line_end": 72
+        },
+        {
+          "level": 3,
+          "title": "BAB II TINJAUAN PUSTAKA DAN LANDASAN TEORI",
+          "line_start": 73,
+          "line_end": 76
+        },
+        {
+          "level": 3,
+          "title": "BAB III METODOLOGI PENELITIAN",
+          "line_start": 77,
+          "line_end": 83
+        },
+        {
+          "level": 3,
+          "title": "DAFTAR PUSTAKA",
+          "line_start": 84,
+          "line_end": 88
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 89,
+          "line_end": 92
+        }
+      ]
+    },
+    "kp-ta/template-dokumen.md": {
+      "title": "Template & Repositori Dokumen Resmi Informatika UNTAN",
+      "total_lines": 85,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Template & Repositori Dokumen Resmi Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 10
+        },
+        {
+          "level": 2,
+          "title": "1. Standar Format & Tipografi Penulisan (Pedoman 2022 FT UNTAN)",
+          "line_start": 11,
+          "line_end": 34
+        },
+        {
+          "level": 2,
+          "title": "2. Katalog 26 Berkas Resmi: Pilihan Markdown (.md) vs Berkas Asli (Raw)",
+          "line_start": 35,
+          "line_end": 36
+        },
+        {
+          "level": 3,
+          "title": "A. Berkas Tugas Akhir & Skripsi",
+          "line_start": 37,
+          "line_end": 49
+        },
+        {
+          "level": 3,
+          "title": "B. Berkas Kerja Praktik (KP)",
+          "line_start": 50,
+          "line_end": 62
+        },
+        {
+          "level": 3,
+          "title": "C. Dokumen Akademik & Kalender Perkuliahan",
+          "line_start": 63,
+          "line_end": 69
+        },
+        {
+          "level": 3,
+          "title": "D. Sertifikat Akreditasi & Keanggotaan Profesi",
+          "line_start": 70,
+          "line_end": 80
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 81,
+          "line_end": 85
+        }
+      ]
+    },
+    "profil/README.md": {
+      "title": "Direktori Profil & Tata Kelola Prodi Informatika UNTAN",
+      "total_lines": 12,
+      "headings_count": 1,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Direktori Profil & Tata Kelola Prodi Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 12
+        }
+      ]
+    },
+    "profil/akreditasi.md": {
+      "title": "Status Akreditasi, Keanggotaan Profesi, & Prestasi Informatika UNTAN",
+      "total_lines": 64,
+      "headings_count": 7,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Status Akreditasi, Keanggotaan Profesi, & Prestasi Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Status Akreditasi Resmi",
+          "line_start": 7,
+          "line_end": 15
+        },
+        {
+          "level": 3,
+          "title": "Riwayat Akreditasi Program Studi:",
+          "line_start": 16,
+          "line_end": 27
+        },
+        {
+          "level": 2,
+          "title": "2. Keanggotaan Asosiasi Profesi (APTIKOM)",
+          "line_start": 28,
+          "line_end": 38
+        },
+        {
+          "level": 2,
+          "title": "3. Ekosistem Platform Digital Mandiri",
+          "line_start": 39,
+          "line_end": 48
+        },
+        {
+          "level": 2,
+          "title": "4. Prestasi & Rekognisi",
+          "line_start": 49,
+          "line_end": 59
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 60,
+          "line_end": 64
+        }
+      ]
+    },
+    "profil/benchmark-dan-evaluasi-model.md": {
+      "title": "Hasil Benchmark Model & Evaluasi Performa Luco",
+      "total_lines": 59,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Hasil Benchmark Model & Evaluasi Performa Luco",
+          "line_start": 10,
+          "line_end": 15
+        },
+        {
+          "level": 2,
+          "title": "1. Hasil Benchmark Model Dense Embedding IndoBERT",
+          "line_start": 16,
+          "line_end": 27
+        },
+        {
+          "level": 3,
+          "title": "Fenomena *Representation Collapse* pada IndoLEM:",
+          "line_start": 28,
+          "line_end": 32
+        },
+        {
+          "level": 2,
+          "title": "2. Hasil Benchmark Komparasi 3 Mode Inferensi",
+          "line_start": 33,
+          "line_end": 48
+        },
+        {
+          "level": 2,
+          "title": "3. Hasil Pengujian Unit & Integrasi Sistem (Pytest Suite)",
+          "line_start": 49,
+          "line_end": 54
+        },
+        {
+          "level": 2,
+          "title": "4. Hasil Pengujian Keamanan & Prompt Injection",
+          "line_start": 55,
+          "line_end": 59
+        }
+      ]
+    },
+    "profil/komparasi-context-stuffing-vs-hybrid-rag.md": {
+      "title": "Perbandingan Full Context Injection vs Arsitektur Hybrid Agentic RAG Luco",
+      "total_lines": 47,
+      "headings_count": 6,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Perbandingan Full Context Injection vs Arsitektur Hybrid Agentic RAG Luco",
+          "line_start": 10,
+          "line_end": 19
+        },
+        {
+          "level": 2,
+          "title": "1. Berapa Banyak yang Dihemat oleh Arsitektur Hybrid RAG Luco?",
+          "line_start": 20,
+          "line_end": 34
+        },
+        {
+          "level": 2,
+          "title": "2. Mengapa Arsitektur Hybrid Jauh Lebih Unggul?",
+          "line_start": 35,
+          "line_end": 36
+        },
+        {
+          "level": 3,
+          "title": "A. Mengatasi Fenomena \"Lost in the Middle\" (Needle in a Haystack)",
+          "line_start": 37,
+          "line_end": 40
+        },
+        {
+          "level": 3,
+          "title": "B. Keterlacakan dan Integritas Sitasi (*Grounded Citations*)",
+          "line_start": 41,
+          "line_end": 44
+        },
+        {
+          "level": 3,
+          "title": "C. Ketahanan Terhadap Batas Laju (*TPM Rate Limit*)",
+          "line_start": 45,
+          "line_end": 47
+        }
+      ]
+    },
+    "profil/kontak.md": {
+      "title": "Kontak Resmi Program Studi Informatika UNTAN",
+      "total_lines": 31,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Kontak Resmi Program Studi Informatika UNTAN",
+          "line_start": 14,
+          "line_end": 17
+        },
+        {
+          "level": 3,
+          "title": "📞 Saluran Komunikasi Resmi",
+          "line_start": 18,
+          "line_end": 23
+        },
+        {
+          "level": 3,
+          "title": "🏢 Alamat Sekretariat & Jam Operasional",
+          "line_start": 24,
+          "line_end": 27
+        },
+        {
+          "level": 3,
+          "title": "📋 Jenis Layanan",
+          "line_start": 28,
+          "line_end": 31
+        }
+      ]
+    },
+    "profil/program-magister-s2.md": {
+      "title": "Program Magister (S2) Informatika UNTAN",
+      "total_lines": 38,
+      "headings_count": 5,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Program Magister (S2) Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Pembukaan Resmi Program Magister",
+          "line_start": 7,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "2. Sorotan Berita & Rekognisi Peluncuran",
+          "line_start": 17,
+          "line_end": 24
+        },
+        {
+          "level": 2,
+          "title": "3. Informasi Admisi & Kontak Pascasarjana",
+          "line_start": 25,
+          "line_end": 33
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 34,
+          "line_end": 38
+        }
+      ]
+    },
+    "profil/sejarah-untan.md": {
+      "title": "Sejarah Universitas Tanjungpura & Fakultas Teknik",
+      "total_lines": 18,
+      "headings_count": 4,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Sejarah Universitas Tanjungpura & Fakultas Teknik",
+          "line_start": 1,
+          "line_end": 2
+        },
+        {
+          "level": 2,
+          "title": "1. Selayang Pandang Universitas Tanjungpura",
+          "line_start": 3,
+          "line_end": 7
+        },
+        {
+          "level": 2,
+          "title": "2. Fakultas Teknik & Lahirnya Jurusan Informatika",
+          "line_start": 8,
+          "line_end": 14
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 15,
+          "line_end": 18
+        }
+      ]
+    },
+    "profil/struktur-organisasi.md": {
+      "title": "Struktur Organisasi & Profil SDM Informatika UNTAN",
+      "total_lines": 71,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Struktur Organisasi & Profil SDM Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 6
+        },
+        {
+          "level": 2,
+          "title": "1. Pimpinan Jurusan & Program Studi",
+          "line_start": 7,
+          "line_end": 15
+        },
+        {
+          "level": 2,
+          "title": "2. Koordinator Laboratorium Pembelajaran & Riset",
+          "line_start": 16,
+          "line_end": 27
+        },
+        {
+          "level": 2,
+          "title": "3. Kelompok Keahlian (KK)",
+          "line_start": 28,
+          "line_end": 42
+        },
+        {
+          "level": 2,
+          "title": "4. Statistik Sumber Daya Dosen (SDM)",
+          "line_start": 43,
+          "line_end": 46
+        },
+        {
+          "level": 3,
+          "title": "A. Komposisi Kualifikasi Pendidikan Terakhir",
+          "line_start": 47,
+          "line_end": 54
+        },
+        {
+          "level": 3,
+          "title": "B. Komposisi Jabatan Fungsional Dosen",
+          "line_start": 55,
+          "line_end": 66
+        },
+        {
+          "level": 2,
+          "title": "Tautan Terkait",
+          "line_start": 67,
+          "line_end": 71
+        }
+      ]
+    },
+    "profil/tim-pengembang.md": {
+      "title": "Sejarah & Tim Pengembang Luco (luco-untan)",
+      "total_lines": 104,
+      "headings_count": 8,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Sejarah & Tim Pengembang Luco (luco-untan)",
+          "line_start": 38,
+          "line_end": 45
+        },
+        {
+          "level": 2,
+          "title": "📜 Kronologi & Silsilah Pengembangan Luco",
+          "line_start": 46,
+          "line_end": 47
+        },
+        {
+          "level": 3,
+          "title": "1. Fase Skripsi Awal",
+          "line_start": 48,
+          "line_end": 50
+        },
+        {
+          "level": 3,
+          "title": "2. Fase Pembangunan Sistem Production-Ready (Asisten Prodi & Dosen)",
+          "line_start": 51,
+          "line_end": 63
+        },
+        {
+          "level": 3,
+          "title": "3. Fase Perombakan RAG: Hybrid Agentic RAG (Tugas Besar AI 2026)",
+          "line_start": 64,
+          "line_end": 77
+        },
+        {
+          "level": 2,
+          "title": "👥 Direktori Tim & Kontributor",
+          "line_start": 78,
+          "line_end": 89
+        },
+        {
+          "level": 2,
+          "title": "🎯 Tujuan dan Inovasi Proyek",
+          "line_start": 90,
+          "line_end": 96
+        },
+        {
+          "level": 2,
+          "title": "🔗 Tautan Dokumen Terkait",
+          "line_start": 97,
+          "line_end": 104
+        }
+      ]
+    },
+    "profil/visi-misi.md": {
+      "title": "Visi, Misi, dan Tujuan Program Studi Informatika UNTAN",
+      "total_lines": 30,
+      "headings_count": 5,
+      "headings": [
+        {
+          "level": 1,
+          "title": "Visi, Misi, dan Tujuan Program Studi Informatika UNTAN",
+          "line_start": 1,
+          "line_end": 2
+        },
+        {
+          "level": 2,
+          "title": "1. Visi Keilmuan",
+          "line_start": 3,
+          "line_end": 7
+        },
+        {
+          "level": 2,
+          "title": "2. Misi Tridharma Perguruan Tinggi",
+          "line_start": 8,
+          "line_end": 16
+        },
+        {
+          "level": 2,
+          "title": "3. Tujuan Program Studi",
+          "line_start": 17,
+          "line_end": 25
+        },
+        {
+          "level": 2,
+          "title": "Tautan Navigasi",
+          "line_start": 26,
+          "line_end": 30
+        }
+      ]
+    }
+  }
+}

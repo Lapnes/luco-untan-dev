@@ -1,0 +1,67 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: luco-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-luco}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-lucopass123}
+      POSTGRES_DB: ${POSTGRES_DB:-lucodb}
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-luco} -d ${POSTGRES_DB:-lucodb}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  openviking:
+    image: ghcr.io/volcengine/openviking:main
+    container_name: luco-openviking
+    ports:
+      - "1933:1933"
+    environment:
+      - OPENVIKING_CONFIG_FILE=/app/ov.conf
+      - OPENVIKING_WITH_BOT=0
+    volumes:
+      - ../ov.conf:/app/ov.conf
+      - ../.data/openviking:/app/data
+    depends_on:
+      indobert:
+        condition: service_healthy
+    restart: unless-stopped
+
+  indobert:
+    build:
+      context: ./indobert-embedder
+    container_name: luco-indobert
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./indobert-cache:/root/.cache/huggingface
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "python3 -c 'import urllib.request; urllib.request.urlopen(\"http://localhost:8001/health\")'"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 60s
+
+  antigravity-proxy:
+    build:
+      context: ./antigravity-proxy
+    container_name: luco-antigravity-proxy
+    ports:
+      - "3000:3000"
+    environment:
+      - ACCOUNTS_FILE=/app/data/antigravity-accounts.json
+      - BASE_URL=http://127.0.0.1:3000
+      - ANTIGRAVITY_CLIENT_ID=${ANTIGRAVITY_CLIENT_ID:-}
+      - ANTIGRAVITY_CLIENT_SECRET=${ANTIGRAVITY_CLIENT_SECRET:-}
+    volumes:
+      - ./antigravity-proxy/data:/app/data:z
+      - ./antigravity-proxy/src:/app/src:z
+    restart: unless-stopped
+

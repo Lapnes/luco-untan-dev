@@ -1,0 +1,29 @@
+# Root Orchestrator Luco
+# Menjalankan seluruh stack layanan: luco-app, postgres, openviking, antigravity-proxy
+
+include:
+  - dependencies/docker-compose.yml
+
+services:
+  luco-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: luco-app
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      # Resolusi hostname antar kontainer di dalam Docker network
+      - LLM_API_BASE=${DOCKER_LLM_API_BASE:-http://antigravity-proxy:3000/v1}
+      - OPENVIKING_URL=${DOCKER_OPENVIKING_URL:-http://openviking:1933}
+      - DATABASE_URL=${DOCKER_DATABASE_URL:-postgresql://${POSTGRES_USER:-luco}:${POSTGRES_PASSWORD:-lucopass123}@postgres:5432/${POSTGRES_DB:-lucodb}}
+    depends_on:
+      postgres:
+        condition: service_healthy
+      openviking:
+        condition: service_started
+      antigravity-proxy:
+        condition: service_started
+    restart: unless-stopped

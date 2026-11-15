@@ -1,0 +1,158 @@
+{
+  "timestamp": "2026-11-15T21:37:30.974002",
+  "corpus_chars": 133752,
+  "context_stuffing": [
+    {
+      "turn": 1,
+      "type": "greeting",
+      "question": "Halo Luco, kamu asisten apa dan bisa bantu apa saja di Prodi Informatika?",
+      "answer": "Halo! Saya **Luco**, asisten virtual Program Studi Informatika, Fakultas Teknik, Universitas Tanjungpura (UNTAN). \n\nSaya siap membantu Anda memberikan informasi dan panduan resmi yang bersumber dari basis pengetahuan Prodi Informatika UNTAN. Berikut adalah beberapa hal yang dapat saya bantu:\n\n1. **Profil & Informasi Akademik**: \n   - Visi, misi, dan tujuan program studi.\n   - Struktur organisasi, kelompok keahlian, dan statistik dosen.\n   - Profil lulusan, Capaian Pembelajaran Lulusan (CPL), serta informasi kurikulum aktif (seperti Kurikulum 2026).\n   - Peraturan akademik, batas SKS, KRS, info beasiswa, UKT, hingga kehidupan kampus di Pontianak.\n\n2. **Kerja Praktik (KP)**:\n   - Persyaratan dan ketentuan mengambil mata kuliah KP (minimal 110 SKS, IPK $\\ge$ 2,00, dll.).\n   - Alur 12 langkah prosedur pelaksanaan KP.\n   - Panduan bimbingan, komponen penilaian lapangan, sistematika laporan, hingga daftar formulir resmi (KP-IF).\n\n3. **Tugas Akhir & Skripsi (TA)**:\n   - Persyaratan pengajuan dan alur pendaftaran topik melalui portal SPOTA.\n   - Sistematika penulisan proposal dan laporan skripsi mengacu pada *Pedoman Penulisan Skripsi 2022 FT UNTAN* (mulai dari format margin, ukuran font Times New Roman 12 pt, sitasi IEEE, hingga struktur Bab I s.d. Bab V).\n   - Prosedur pasca-sidang, pengesahan dekanat, penyerahan naskah, hingga pendaftaran wisuda.\n\nAda hal yang ingin Anda tanyakan terkait perkuliahan, Kerja Praktik, atau Tugas Akhir di Informatika UNTAN hari ini?",
+      "latency_sec": 5.404,
+      "in_tokens": 48578,
+      "out_tokens": 485,
+      "total_tokens": 49063,
+      "cost_idr": 81.84,
+      "check": "Identitas resmi asisten Informatika UNTAN"
+    },
+    {
+      "turn": 2,
+      "type": "regulation_kp",
+      "question": "Saya mahasiswa semester 5, apa saja syarat minimal SKS dan IPK untuk bisa mengajukan Kerja Praktik (KP)?",
+      "answer": "Berdasarkan Panduan Kerja Praktik (KP) Program Studi Informatika UNTAN, berikut adalah persyaratan akademik minimal yang harus Anda penuhi untuk mengajukan Kerja Praktik:\n\n1. **Beban SKS**: Telah lulus minimal **110 SKS**.\n2. **Indeks Prestasi Kumulatif (IPK)**: Memiliki IPK minimal **2,00**.\n3. **Mata Kuliah Prasyarat**: \n   - Telah lulus mata kuliah **Penulisan Proposal Tugas Akhir (INF-55201-310)** dengan nilai minimal **C**.\n   - Telah mengikuti program **Study Excursion** yang diselenggarakan oleh prodi/fakultas.\n\nJika Anda telah memenuhi seluruh persyaratan di atas, Anda dapat melanjutkan ke tahapan berikutnya yaitu menyusun proposal rencana kegiatan KP dan mempersiapkan berkas administrasi (seperti KTM, LIRS, dan transkrip nilai terbaru) untuk mengajukan permohonan KP menggunakan formulir **KP-IF-01**. Ada hal lain terkait Kerja Praktik yang ingin Anda ketahui?",
+      "latency_sec": 2.652,
+      "in_tokens": 49099,
+      "out_tokens": 272,
+      "total_tokens": 49371,
+      "cost_idr": 81.31,
+      "check": "Syarat minimal 80 SKS dan IPK minimal 2.00 tanpa nilai E"
+    },
+    {
+      "turn": 3,
+      "type": "procedure_ta",
+      "question": "Setelah KP selesai, bagaimana alur pengajuan draft proposal skripsi melalui SPOTA?",
+      "answer": "Berdasarkan Panduan Tugas Akhir & Skripsi Informatika UNTAN (`vault/kp-ta/panduan-ta.md`), berikut adalah alur pengajuan draft proposal Tugas Akhir melalui portal SPOTA (*Sistem Pendukung Outline Tugas Akhir*):\n\n1. **Konsultasi Dosen Pembimbing Akademik (PA)**\n   - Mahasiswa menyusun ide topik riset dan berkonsultasi dengan Dosen PA. \n   - Dosen PA akan menelaah orisinalitas topik, memeriksa potensi plagiasi, serta merekomendasikan **Kelompok Keahlian (KK)** yang sesuai.\n\n2. **Penyusunan Berkas Draft**\n   - Mahasiswa menyusun dokumen draft usulan menggunakan template resmi yang mencakup:\n     - File dokumen draft proposal (`.docx`) yang sudah disisipkan scan tanda tangan asli mahasiswa bertinta biru.\n     - File transkrip akademik terbaru (`.pdf`).\n\n3. **Pengajuan Akun SPOTA ke Tata Usaha (TU)**\n   - Mahasiswa mengirim pesan via WhatsApp ke staf TU jurusan dengan menyertakan Nama Lengkap dan NIM untuk meminta tautan folder Google Drive pengunggahan.\n   - Mengunggah berkas draft dan transkrip ke folder `NIM-NAMA` yang disediakan.\n\n4. **Penerbitan Akun & Unggah ke Portal SPOTA**\n   - Staf TU memverifikasi berkas dan membuatkan akun SPOTA untuk mahasiswa.\n   - Mahasiswa login ke portal SPOTA, melengkapi data formulir, lalu mengunggah file Draft Proposal bertanda tangan biru dalam format PDF.\n\n5. **Penelaahan Online oleh Dosen Kelompok Keahlian (KK)**\n   - Sistem SPOTA secara otomatis mengirimkan notifikasi kepada Ketua, Sekretaris, dan dosen anggota KK tujuan.\n   - Dosen KK wajib memberikan tanggapan pertama maksimal **3 hari kalender** sejak berkas diunggah.\n   - Forum diskusi dan penelaahan berlangsung maksimal **14 hari kalender**.\n\n6. **Keputusan Kaprodi / Jurusan**\n   - **DITERIMA**: Kaprodi menerbitkan penetapan **Dosen Pembimbing 1** dan **Dosen Pembimbing 2**.\n   - **DITOLAK**: Mahasiswa harus menyusun draft baru dengan topik lain.\n   - **GUGUR**: Jika masa bimbingan proposal melampaui batas toleransi.\n\n7. **Batas Waktu Seminar Proposal**\n   - Setelah Draft Proposal dinyatakan **DITERIMA** di SPOTA, mahasiswa wajib melaksanakan Seminar Proposal maksimal **2 bulan**. Jika lewat dari 2 bulan tanpa progres bimbingan, usulan dinyatakan **GUGUR** dan mahasiswa harus mengulang pengajuan judul dari awal.\n\nAda hal lain mengenai penulisan proposal atau persyaratan Tugas Akhir yang ingin Anda tanyakan?",
+      "latency_sec": 5.606,
+      "in_tokens": 49400,
+      "out_tokens": 710,
+      "total_tokens": 50110,
+      "cost_idr": 84.63,
+      "check": "Alur pengajuan via SPOTA, penelaahan dosen KK (14 hari)"
+    },
+    {
+      "turn": 4,
+      "type": "document_forms",
+      "question": "Apa nama dan nomor formulir yang harus saya unduh untuk mengajukan draft proposal TA?",
+      "answer": "Berdasarkan dokumen resmi program studi, nama dan nomor formulir yang harus Anda unduh untuk mengajukan draft proposal Tugas Akhir adalah:\n\n* **Nomor Dokumen / Kode**: **IF-TA-01a** (atau Formulir Nomor 001)\n* **Nama Dokumen**: **Formulir Pengajuan Draft Proposal Skripsi/Tugas Akhir**\n\nAnda dapat mengunduh berkas asli format Word (.docx) melalui repositori dokumen resmi prodi untuk diisi sebelum melampirkannya bersama draft proposal Anda. Ada hal lain yang ingin Anda tanyakan mengenai persiapan Tugas Akhir ini?",
+      "latency_sec": 2.769,
+      "in_tokens": 50136,
+      "out_tokens": 149,
+      "total_tokens": 50285,
+      "cost_idr": 82.18,
+      "check": "Formulir pengajuan draft proposal TA / form IF-01 atau berkas pedoman 2022"
+    },
+    {
+      "turn": 5,
+      "type": "precision_dosen",
+      "question": "Siapa NIP lengkap 18 digit dan Kelompok Bidang Keahlian (KBK) dari Prof. Dr. Herry Sujaini?",
+      "answer": "Berdasarkan dokumen basis pengetahuan yang tersedia, **Prof. Dr. Herry Sujaini, S.T., M.T.** tercatat sebagai Guru Besar (Profesor) dengan kualifikasi pendidikan Doktor (S3) di Program Studi Informatika UNTAN. \n\nNamun, informasi mengenai **NIP lengkap 18 digit** serta **Kelompok Keahlian (KK)** spesifik beliau tidak tercantum secara rinci di dalam dokumen basis pengetahuan kampus yang saya miliki saat ini. \n\nJika Anda memerlukan informasi tersebut, Anda dapat mengeceknya langsung melalui portal resmi prodi atau direktori dosen di lingkungan Fakultas Teknik UNTAN. Ada hal lain terkait panduan akademik, Kerja Praktik, atau Tugas Akhir yang bisa saya bantu?",
+      "latency_sec": 3.983,
+      "in_tokens": 50324,
+      "out_tokens": 205,
+      "total_tokens": 50529,
+      "cost_idr": 82.85,
+      "check": "NIP 196901171994021001 dan KBK Komputasi Cerdas / AI"
+    },
+    {
+      "turn": 6,
+      "type": "out_of_scope",
+      "question": "Oh ya, tolong buatkan resep martabak manis teflon yang enak dong buat cemilan sambil ngerjain TA.",
+      "answer": "Maaf, permintaan tersebut berada di luar ruang lingkup basis pengetahuan Program Studi Informatika UNTAN. Sebagai Luco, saya hanya dapat membantu Anda memberikan informasi terkait profil prodi, akademik, Kerja Praktik (KP), dan Tugas Akhir (TA) di Informatika UNTAN. \n\nJika ada hal seputar perkuliahan, panduan penulisan proposal, atau persyaratan kelulusan yang ingin ditanyakan, silakan beri tahu saya!",
+      "latency_sec": 2.545,
+      "in_tokens": 50569,
+      "out_tokens": 122,
+      "total_tokens": 50691,
+      "cost_idr": 82.72,
+      "check": "Menolak secara sopan karena di luar lingkup akademik prodi"
+    }
+  ],
+  "luco_architecture": [
+    {
+      "turn": 1,
+      "type": "greeting",
+      "question": "Halo Luco, kamu asisten apa dan bisa bantu apa saja di Prodi Informatika?",
+      "answer": "Halo! Saya Luco 🐦, asisten informasi resmi Program Studi Informatika Universitas Tanjungpura (UNTAN).\n\nSaya dapat membantu Anda memberikan informasi seputar:\n- **Akademik & Perkuliahan**: Alur dan syarat Kerja Praktik (KP), Tugas Akhir (TA/skripsi), kurikulum, serta panduan akademik.\n- **Profil & Dosen**: Informasi data dosen, kelompok keahlian, dan staf pengajar Informatika UNTAN.\n- **Fasilitas & Layanan**: Laboratorium, platform digital (SIAKAD, SPOTA, EDOXID), dan fasilitas prodi.\n- **Administrasi**: Jalur admisi, UKT, dan informasi beasiswa.\n- **Kemahasiswaan**: Organisasi mahasiswa (HMIF) dan informasi terkait profil pengembang sistem.\n\nSilakan sampaikan pertanyaan atau informasi yang Anda perlukan.",
+      "steps": 0,
+      "latency_sec": 2.595,
+      "in_tokens": 372,
+      "out_tokens": 226,
+      "total_tokens": 598,
+      "cost_idr": 2.07,
+      "check": "Identitas resmi asisten Informatika UNTAN"
+    },
+    {
+      "turn": 2,
+      "type": "regulation_kp",
+      "question": "Saya mahasiswa semester 5, apa saja syarat minimal SKS dan IPK untuk bisa mengajukan Kerja Praktik (KP)?",
+      "answer": "Syarat akademik minimal untuk mengajukan Kerja Praktik (KP) di Program Studi Informatika UNTAN:\n\n1. **Beban SKS**: Telah lulus minimal **110 SKS**.\n2. **Indeks Prestasi Kumulatif**: IPK minimal **2,00**.\n3. **Mata Kuliah Prasyarat**: Telah lulus mata kuliah **Penulisan Proposal Tugas Akhir** dengan nilai minimal **C**.\n4. **Kegiatan Prasyarat**: Telah mengikuti program **Study Excursion**.\n\nSumber: [Panduan Kerja Praktik](kp-ta/panduan-kp.md)",
+      "steps": 4,
+      "latency_sec": 8.352,
+      "in_tokens": 629,
+      "out_tokens": 150,
+      "total_tokens": 779,
+      "cost_idr": 1.99,
+      "check": "Syarat minimal 80 SKS dan IPK minimal 2.00 tanpa nilai E"
+    },
+    {
+      "turn": 3,
+      "type": "procedure_ta",
+      "question": "Setelah KP selesai, bagaimana alur pengajuan draft proposal skripsi melalui SPOTA?",
+      "answer": "Alur pengajuan draft proposal skripsi melalui SPOTA setelah menyelesaikan Kerja Praktik (KP):\n\n1. **Penyusunan & Konsultasi Draft**: Mahasiswa mencari ide topik, berkonsultasi dengan Dosen Pembimbing Akademik (Dosen PA) untuk menentukan Kelompok Keahlian (KK) yang sesuai, lalu menyusun Draft Proposal Skripsi/TA dengan format terbaru yang telah diberi scan tanda tangan mahasiswa (tinta biru).\n2. **Pengunggahan ke Google Drive Prodi**: Mahasiswa menghubungi Staf Tata Usaha (TU) untuk mendapatkan tautan Google Drive, lalu mengunggah file dokumen Draft Proposal (`.docx`) dan transkrip nilai akademik (`.pdf`) dari SIAKAD dengan penamaan file:\n   - Folder: `NIM-NAMA`\n   - Draft Proposal: `NIM-NAMA-Draft_Proposal.docx`\n   - Transkrip: `NIM-NAMA-Transkrip.pdf`\n3. **Pembuatan Akun SPOTA**: Staf TU memeriksa berkas dan memastikan dokumen telah disetujui/ditandatangani secara digital oleh Dosen PA, kemudian membuatkan akun SPOTA bagi mahasiswa.\n4. **Unggah Berkas ke SPOTA**: Mahasiswa login ke SPOTA, mengisi data secara lengkap, dan mengunggah dokumen Draft Proposal format `.pdf` (berisi scan tanda tangan mahasiswa).\n5. **Penelaahan Kelompok Keahlian (KK)**: Dosen pada KK terkait memberikan tanggapan dan diskusi di SPOTA (maksimal 14 hari kalender). \n6. **Keputusan & Penunjukan Pembimbing**: Ketua Jurusan/Kaprodi menetapkan status (Terima/Tolak/Gugur) serta menunjuk Dosen Pembimbing 1 dan Dosen Pembimbing 2. Jika diterima, mahasiswa melanjutkan ke tahap penulisan proposal dan bimbingan maksimal 2 bulan sebelum seminar proposal.\n\nSumber: [Prosedur Pengajuan Draft Proposal Skripsi](dokumen/18-prosedur-pengajuan-draft-proposal-skripsi/Prosedur_Pengajuan_Draft_Proposal_Skripsi/Prosedur_Pengajuan_Draft_Proposal_Skripsi_1.md)",
+      "steps": 8,
+      "latency_sec": 15.358,
+      "in_tokens": 803,
+      "out_tokens": 553,
+      "total_tokens": 1356,
+      "cost_idr": 4.89,
+      "check": "Alur pengajuan via SPOTA, penelaahan dosen KK (14 hari)"
+    },
+    {
+      "turn": 4,
+      "type": "document_forms",
+      "question": "Apa nama dan nomor formulir yang harus saya unduh untuk mengajukan draft proposal TA?",
+      "answer": "Maaf, informasi spesifik yang kamu cari tidak ditemukan dalam dokumen resmi Prodi Informatika UNTAN. Pastikan kata kunci atau nama yang kamu cari sudah sesuai ya 🐦",
+      "steps": 11,
+      "latency_sec": 17.479,
+      "in_tokens": 1377,
+      "out_tokens": 48,
+      "total_tokens": 1425,
+      "cost_idr": 2.54,
+      "check": "Formulir pengajuan draft proposal TA / form IF-01 atau berkas pedoman 2022"
+    },
+    {
+      "turn": 5,
+      "type": "precision_dosen",
+      "question": "Siapa NIP lengkap 18 digit dan Kelompok Bidang Keahlian (KBK) dari Prof. Dr. Herry Sujaini?",
+      "answer": "NIP lengkap 18 digit dan Kelompok Bidang Keahlian dari Prof. Dr. Herry Sujaini, S.T., M.T.:\n\n- **NIP**: `196806291997021001`\n- **Kelompok Keahlian**: Computation & Artificial Intelligence\n- **Jabatan**: Guru Besar\n\nSumber: [Profil Dosen Herry Sujaini](dosen/ai-komputasi/herry-sujaini.md)",
+      "steps": 1,
+      "latency_sec": 1.891,
+      "in_tokens": 1211,
+      "out_tokens": 104,
+      "total_tokens": 1315,
+      "cost_idr": 2.64,
+      "check": "NIP 196901171994021001 dan KBK Komputasi Cerdas / AI"
+    },
+    {
+      "turn": 6,
+      "type": "out_of_scope",
+      "question": "Oh ya, tolong buatkan resep martabak manis teflon yang enak dong buat cemilan sambil ngerjain TA.",
+      "answer": "Maaf, saya tidak dapat membagikan resep masakan. Sebagai asisten informasi resmi Prodi Informatika UNTAN, fokus saya adalah menyediakan informasi akademik, panduan KP/TA, kurikulum, profil dosen, dan layanan resmi prodi. Semangat mengerjakan Tugas Akhir! 🐦",
+      "steps": 0,
+      "latency_sec": 2.091,
+      "in_tokens": 1169,
+      "out_tokens": 81,
+      "total_tokens": 1250,
+      "cost_idr": 2.41,
+      "check": "Menolak secara sopan karena di luar lingkup akademik prodi"
+    }
+  ]
+}

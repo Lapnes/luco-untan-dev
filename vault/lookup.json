@@ -1,0 +1,526 @@
+{
+  "dosen": [
+    {
+      "nama": "Alfian Abdul Jalid, S.Kom., M.Cs.",
+      "nip": "199106292022031003",
+      "email": "fianjld@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Networking & Security",
+      "openalex_id": "A5014110550",
+      "diverifikasi": true,
+      "alias": [
+        "Pak Alfian",
+        "Alfian",
+        "Pak Fian",
+        "Fian"
+      ],
+      "file": "dosen/jaringan-keamanan/alfian-abdul-jalid.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5014110550"
+      ]
+    },
+    {
+      "nama": "Andrean Taufik, S.Kom., M.T.I.",
+      "nip": "199603122025061005",
+      "email": "taufik@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "–",
+      "openalex_id": null,
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/umum/andrean-taufik.md",
+      "sumber": [
+        "https://informatika.untan.ac.id"
+      ]
+    },
+    {
+      "nama": "Anggi Perwitasari, S.T., M.T.",
+      "nip": "198908192019032012",
+      "email": "anggiperwitasari@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Software Engineering & Mobile Computing",
+      "openalex_id": "A5011885555",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/rpl-mobile/anggi-perwitasari.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5011885555"
+      ]
+    },
+    {
+      "nama": "Anggi Srimurdianti S., S.T., M.T.",
+      "nip": "198604302012122002",
+      "email": "anggidianti@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Information System & Data Spatial",
+      "openalex_id": "A5058587053",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/si-spasial/anggi-srimurdianti.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5058587053"
+      ]
+    },
+    {
+      "nama": "Desepta Isna Ulumi, S.Kom., M.Kom.",
+      "nip": "199212192022032010",
+      "email": "ulum@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Software Engineering & Mobile Computing",
+      "openalex_id": "A5014002906",
+      "diverifikasi": true,
+      "alias": [
+        "Bu Ulum",
+        "Ulum"
+      ],
+      "file": "dosen/rpl-mobile/desepta-isna-ulumi.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5014002906"
+      ]
+    },
+    {
+      "nama": "Dimas Apriyandi, S.Kom., M.Sc.",
+      "nip": "199704032025061003",
+      "email": "dimasapry@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "–",
+      "openalex_id": "A5020203776",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/umum/dimas-apriyandi.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5020203776"
+      ]
+    },
+    {
+      "nama": "Dr. Arif Bijaksana Putra Negara, S.T., M.T.",
+      "nip": "197208081998021002",
+      "email": "arifbpn@informatika.untan.ac.id",
+      "jabatan": "Lektor Kepala",
+      "kelompok_keahlian": "Computation & Artificial Intelligence",
+      "openalex_id": "A5042899309",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/ai-komputasi/arif-bijaksana-putra-negara.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5042899309"
+      ]
+    },
+    {
+      "nama": "Dr. Ir. Yus Sholva, S.T., M.T.",
+      "nip": "197410192003121002",
+      "email": "sholvariza@untan.ac.id",
+      "jabatan": "Lektor Kepala",
+      "kelompok_keahlian": "Information System & Data Spatial",
+      "openalex_id": "A5043289508",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/si-spasial/yus-sholva.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5043289508"
+      ]
+    },
+    {
+      "nama": "Enda Esyudha Pratama, S.T., M.T.",
+      "nip": "198810182019031006",
+      "email": "enda@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Information System & Data Spatial",
+      "openalex_id": "A5070934227",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/si-spasial/enda-esyudha-pratama.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5070934227"
+      ]
+    },
+    {
+      "nama": "Enriko Yudhistira Ramadhan, S.Kom., M.T.",
+      "nip": "199801242025061004",
+      "email": "enriko@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "–",
+      "openalex_id": "A5031073538",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/umum/enriko-yudhistira-ramadhan.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5031073538"
+      ]
+    },
+    {
+      "nama": "Eva Faja Ripanti, S.Kom. MMSI., Ph.D",
+      "nip": "197803192008012014",
+      "email": "evaripanti@untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Information System & Data Spatial",
+      "openalex_id": "A5069727093",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/si-spasial/eva-faja-ripanti.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5069727093"
+      ]
+    },
+    {
+      "nama": "Fauzan Asrin, S.Kom., M.Kom.",
+      "nip": "199310242022031010",
+      "email": "asrin@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Information System & Data Spatial",
+      "openalex_id": "A5079044787",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/si-spasial/fauzan-asrin.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5079044787"
+      ]
+    },
+    {
+      "nama": "H. Hengky Anra, S.T., M.Kom.",
+      "nip": "197503251999031005",
+      "email": "hengkyanra@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Software Engineering & Mobile Computing",
+      "openalex_id": "A5037213308",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/rpl-mobile/hengky-anra.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5037213308"
+      ]
+    },
+    {
+      "nama": "Haried Novriando, S.Kom., M.Eng.",
+      "nip": "198611132020121005",
+      "email": "haried@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Networking & Security",
+      "openalex_id": "A5009990539",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/jaringan-keamanan/haried-novriando.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5009990539"
+      ]
+    },
+    {
+      "nama": "Helen Sastypratiwi, S.T., M.Eng.",
+      "nip": "198601172012122004",
+      "email": "helensastypratiwi@informatics.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Computation & Artificial Intelligence",
+      "openalex_id": "A5020407036",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/ai-komputasi/helen-sastypratiwi.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5020407036"
+      ]
+    },
+    {
+      "nama": "Helfi Nasution, S.Kom, M.Cs",
+      "nip": "197104291998021002",
+      "email": "helfinas@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Networking & Security",
+      "openalex_id": "A5054548367",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/jaringan-keamanan/helfi-nasution.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5054548367"
+      ]
+    },
+    {
+      "nama": "Heri Priyanto, S.T., M.T.",
+      "nip": "197504122003121001",
+      "email": "heripriyanto@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Networking & Security",
+      "openalex_id": "A5046354504",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/jaringan-keamanan/heri-priyanto.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5046354504"
+      ]
+    },
+    {
+      "nama": "Ibnu Arif, S.Kom., M.Kom.",
+      "nip": "199811012024061001",
+      "email": "ibnuarif@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Computation & Artificial Intelligence",
+      "openalex_id": "A5071238445",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/ai-komputasi/ibnu-arif.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5071238445"
+      ]
+    },
+    {
+      "nama": "Ir. M. Azhar Irwansyah, S.T., M.Eng.",
+      "nip": "198506062008121002",
+      "email": "irwansyah.azhar@untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Networking & Security",
+      "openalex_id": "A5090682220",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/jaringan-keamanan/m-azhar-irwansyah.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5090682220"
+      ]
+    },
+    {
+      "nama": "Ir. Rickhy Artha Octaviyana, S.Kom., M.M., M.Kom.",
+      "nip": "199510302024061002",
+      "email": "artha@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Networking & Security",
+      "openalex_id": "A5116297216",
+      "diverifikasi": true,
+      "alias": [
+        "Pak Riki",
+        "Riki",
+        "Pak Artha",
+        "Artha"
+      ],
+      "file": "dosen/jaringan-keamanan/rickhy-artha-octaviyana.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5116297216"
+      ]
+    },
+    {
+      "nama": "Izuardo Zulkarnain, S.Pd., M.T.",
+      "nip": "199405172024061001",
+      "email": "izuardozulkarnain@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Computation & Artificial Intelligence",
+      "openalex_id": "A5134902075",
+      "diverifikasi": true,
+      "alias": [
+        "Pak Edo",
+        "Edo"
+      ],
+      "file": "dosen/ai-komputasi/izuardo-zulkarnain.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5134902075"
+      ]
+    },
+    {
+      "nama": "Khairul Hafidh, S.T., M.Kom.",
+      "nip": "199202232022031003",
+      "email": "hafidh@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Software Engineering & Mobile Computing",
+      "openalex_id": "A5090106073",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/rpl-mobile/khairul-hafidh.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5090106073"
+      ]
+    },
+    {
+      "nama": "M. Tsanauddin Farid, S.Kom., M.Eng.",
+      "nip": "199609162024061001",
+      "email": "farid@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Software Engineering & Mobile Computing",
+      "openalex_id": "A5116297217",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/rpl-mobile/m-tsanauddin-farid.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5116297217"
+      ]
+    },
+    {
+      "nama": "Morteza Muthahhari, S.Kom., M.T.I.",
+      "nip": "198607092019031008",
+      "email": "morteza.muthahhari@teknik.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Information System & Data Spatial",
+      "openalex_id": "A5020310369",
+      "diverifikasi": true,
+      "alias": [
+        "Pak Teza",
+        "Teza",
+        "Pak Tz",
+        "Tz"
+      ],
+      "file": "dosen/si-spasial/morteza-muthahhari.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5020310369"
+      ]
+    },
+    {
+      "nama": "Niken Candraningrum, S.T., M.Cs.",
+      "nip": "199309272022032010",
+      "email": "nikenc@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Computation & Artificial Intelligence",
+      "openalex_id": "A5092412855",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/ai-komputasi/niken-candraningrum.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5092412855"
+      ]
+    },
+    {
+      "nama": "Novi Safriadi, S.T., M.T.",
+      "nip": "198411032008011003",
+      "email": "safriadi@informatics.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Software Engineering & Mobile Computing",
+      "openalex_id": "A5012405697",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/rpl-mobile/novi-safriadi.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5012405697"
+      ]
+    },
+    {
+      "nama": "Prof. Dr. Herry Sujaini, S.T., M.T.",
+      "nip": "196806291997021001",
+      "email": "hs@untan.ac.id",
+      "jabatan": "Guru Besar",
+      "kelompok_keahlian": "Computation & Artificial Intelligence",
+      "openalex_id": "A5071117671",
+      "diverifikasi": true,
+      "alias": [
+        "Pak Herry",
+        "Herry",
+        "Prof Herry"
+      ],
+      "file": "dosen/ai-komputasi/herry-sujaini.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5071117671"
+      ]
+    },
+    {
+      "nama": "Rifqi Anugrah, S.Kom., M.Kom.",
+      "nip": "199803122024061001",
+      "email": "rifqianugrah@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Information System & Data Spatial",
+      "openalex_id": "A5077069517",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/si-spasial/rifqi-anugrah.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5077069517"
+      ]
+    },
+    {
+      "nama": "Rina Septiriana, S.T., M.Cs.",
+      "nip": "198709232020122001",
+      "email": "rinaseptiriana@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Computation & Artificial Intelligence",
+      "openalex_id": "A5042368433",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/ai-komputasi/rina-septiriana.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5042368433"
+      ]
+    },
+    {
+      "nama": "Rizki Firdaus Mulya, S.Kom., M.Kom.",
+      "nip": "199910202025061010",
+      "email": "rizkifirdausmulya@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "–",
+      "openalex_id": "A5002990484",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/umum/rizki-firdaus-mulya.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5002990484"
+      ]
+    },
+    {
+      "nama": "Rudy Dwi Nyoto, S.T., M.Eng.",
+      "nip": "197803302005011002",
+      "email": "rudydn@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Software Engineering & Mobile Computing",
+      "openalex_id": "A5035240350",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/rpl-mobile/rudy-dwi-nyoto.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5035240350"
+      ]
+    },
+    {
+      "nama": "Tursina, S.T., M.Cs.",
+      "nip": "197801152002122003",
+      "email": "tursina@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Computation & Artificial Intelligence",
+      "openalex_id": "A5033864248",
+      "diverifikasi": true,
+      "alias": [
+        "Bu Tur",
+        "Tur"
+      ],
+      "file": "dosen/ai-komputasi/tursina.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5033864248"
+      ]
+    },
+    {
+      "nama": "Yulianti, S.Kom, MMSI.",
+      "nip": "197210162008012005",
+      "email": "yulianti@informatika.untan.ac.id",
+      "jabatan": "Dosen Tetap",
+      "kelompok_keahlian": "Information System & Data Spatial",
+      "openalex_id": "A5062221619",
+      "diverifikasi": true,
+      "alias": null,
+      "file": "dosen/si-spasial/yulianti.md",
+      "sumber": [
+        "https://informatika.untan.ac.id",
+        "https://openalex.org/A5062221619"
+      ]
+    }
+  ]
+}
