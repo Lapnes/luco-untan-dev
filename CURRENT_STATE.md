@@ -81,7 +81,7 @@ Demi menjaga fokus dan penyelesaian tepat waktu untuk Tugas Besar UAS AI 2026, f
 2. **Laporan Pengujian Menyeluruh & Komparasi Embedding (`docs/laporan/`):**
    - ✅ **Struktur Laporan Tersedia:** Subfolder `docs/laporan/raw/` (data mentah eksekusi) dan `docs/laporan/final/` (laporan terstruktur untuk presentasi dosen).
    - ✅ **Hasil Benchmark Embedding Vektor:** `indobenchmark/indobert-base-p1` mencatat **Top-1 Accuracy 80%**, **Top-3 Recall 100%**, dan margin separasi **+0,2657** (unggul 7x lipat atas `indolem/indobert-base-uncased` yang mengalami *representation collapse* dengan margin hanya +0,0373). Dokumen laporan: [`perbandingan_embedding_indobert.md`](file:///home/luco/luco-untan/docs/laporan/final/perbandingan_embedding_indobert.md).
-   - ✅ **Laporan Pengujian Menyeluruh:** Dokumentasi lengkap 58/58 passing automated tests, OpenViking live retrieval, router fast reject, dan PostgreSQL active session: [`laporan_pengujian_keseluruhan_aplikasi.md`](file:///home/luco/luco-untan/docs/laporan/final/laporan_pengujian_keseluruhan_aplikasi.md).
+   - ✅ **Laporan Pengujian Menyeluruh:** Dokumentasi lengkap 78/78 passing automated tests (13 modul pengujian), OpenViking live retrieval, router fast reject, dan PostgreSQL active session: [`laporan_pengujian_keseluruhan_aplikasi.md`](file:///home/luco/luco-untan/docs/laporan/final/laporan_pengujian_keseluruhan_aplikasi.md).
 3. **Status Autentikasi Akun Google di Antigravity Proxy:**
    - ✅ **Telah Terhubung & Terverifikasi:** Akun aktif (`tenutyquwil1@gmail.com`) pada dasbor `http://localhost:3000`.
    - Tool calling dan completions via `gemini-2.5-flash-lite` dan model lainnya berjalan dengan ketersediaan (health) 100%.

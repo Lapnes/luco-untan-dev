@@ -125,23 +125,22 @@ pixi run benchmark-context
 
 ## 🛡️ Status Verifikasi Sistem
 
-- ✅ **Teruji 100% Otomatis (`pytest`):** 58 passed in ~3.5s (bersih tanpa warning).
-  - Pengujian Live Integrasi OpenViking (`test_viking_live.py`: validasi endpoint health, navigasi ls vault, normalisasi find, dan pembacaan read)
-  - Eksekusi Alur Kerja `FunctionAgent` Otentik (bukan surface mock; memvalidasi pemanggilan tool dan sintesis jawaban)
-  - Logika Upfront Router & Heuristik (Dual-LLM step 1, 0 ms fast reject)
-  - Pengecek Sitasi & Grounding Dokumen (Anti Tautan Palsu & abaikan gambar)
-  - Keamanan Sesi Aktif PostgreSQL & Penanganan Error UUID (Anti 500 crash)
-  - Rate Limiter & Token Budgeting Berbasis Identitas (Anti Ban IP untuk CGNAT Kampus & auto-eviction bucket)
-  - Generator JSON Tree Manifest Heading (`build_manifest.py`)
-  - Otentikasi JWT, Password Hashing bcrypt, dan CORS Middleware
-  - MultiProviderLLM: Primary Antigravity Proxy + Fallback Bifrost Gateway dengan Streaming Resilient Failover & SSE Transport
-  - Kontrak Penuh `FunctionCallingLLM` (`get_tool_calls_from_response`, `astream_chat_with_tools`, `metadata`)
-  - Pencarian Deterministik Data Dosen & Normalisasi Gelar (`lookup.py`)
-  - Mocking SDK HTTP OpenViking & Graceful Offline Fallback (`backends.py`)
-  - Alur Lengkap Chat Sesi Aktif dan Diarsipkan (`/v1/chat` & `/v1/sessions/{id}/chat`)
+- ✅ **Teruji 100% Otomatis (`pytest`):** **78 passed in ~5.2s** (100% lulus bersih tanpa warning pada 13 modul pengujian).
+  - **Penalaran Agen & Guardrail (`test_agent.py` & `test_clarifications.py`):** Eksekusi alur kerja `FunctionAgent` LlamaIndex otentik, protokol klarifikasi aktif (*active clarification*) kueri ambigu, pertahanan injeksi prompt (*prompt injection defense*), panduan antislop copywriting/human, dan proteksi format 4-backtick.
+  - **Kontrak REST API & Autentikasi (`test_api_contract.py` & `test_auth.py`):** Validasi endpoint `/v1/chat/completions`, login & callback Google OAuth, detail dokumen vault (fuzzy & exact), shared session, ekspor markdown, message feedback, otentikasi JWT, password hashing bcrypt, dan CORS middleware.
+  - **Ketahanan LLM & Failover Streaming (`test_llm_resilience.py`):** Resilient transport HTTP, intersepsi anomali streaming Bifrost 500 SSE, dan mekanisme automatic failover `MultiProviderLLM` (Primary Antigravity Proxy + Fallback Bifrost Gateway).
+  - **Akurasi Data Dosen & Resolusi Gelar (`test_lookup.py`):** Akses deterministik 33 profil dosen, pencarian exact nama, normalisasi gelar/honorifik, validasi NIP 18-digit, surel, KBK, dan OpenAlex ID bebas halusinasi.
+  - **Integritas Vault & Grounding Sitasi (`test_core.py`):** Generator tree manifest heading (`manifest.json`), integritas tautan relatif vault, pencegahan path traversal, dan verifikasi sitasi tiga lapis (`citations.py`).
+  - **Rate Limiting & Anti-Ban Kampus (`test_ratelimit.py`):** Identity-first sliding window (RPM/TPM) berbasis User ID JWT untuk mencegah *collateral IP ban* pada jaringan CGNAT/WiFi kampus, batas login per akun, dan pembersihan otomatis bucket RAM (*auto-eviction* 5 menit).
+  - **Manajemen Sesi & Database (`test_sessions_and_db.py`):** Penegakan aturan tunggal *single active session per user* dengan pengarsipan otomatis di PostgreSQL 16 dan penanganan error UUID safe fallback (anti HTTP 500).
+  - **Intersepsi Upfront Router (`test_router.py`):** Klasifikasi kueri deterministik 0 ms & 0 token untuk fast-reject kueri *out-of-scope* dan pengalihan kontak resmi sekretariat prodi.
+  - **Integrasi Live OpenViking & Hybrid Backend (`test_viking_live.py` & `test_backends.py`):** Validasi endpoint live health OpenViking (:1933), navigasi `ls` vault, normalisasi query `find`, pembacaan dokumen `read`, serta fallback offline `LocalBackend` dengan *title & stopword boosting*.
+  - **Audit Logging & Telemetri Biaya (`test_monitoring.py`):** Pencatatan audit trail real-time, token count (cl100k_base), kalkulasi estimasi biaya USD/IDR, dan antarmuka CLI dashboard monitor.
 - ✅ **Terverifikasi Live Lapangan (*Live Spike* & *Ingest*):**
-  - OpenViking GGUF Dense Embedding: `llama-cpp-python` terpasang di container; `pixi run ingest` sukses 100% (64 berkas, 462 chunks)
-  - OpenViking Semantic Retrieval: `pixi run spike` sukses menghasilkan skor vektor 0.76–0.84 tanpa warning lokal
-- 🔄 **Langkah Lanjutan:**
-  - Login akun Google di dasbor Antigravity Proxy (`http://localhost:3000`) untuk mengaktifkan Primary LLM (Gemini 3 Flash).
-  - Jalankan evaluasi benchmark: `pixi run eval -- --judge`.
+  - **Embedding Mikroservice IndoBERT:** Menggunakan `indobenchmark/indobert-base-p1` (port `:8001`) yang terbukti unggul dengan Top-1 Accuracy 80% dan margin separasi +0,2657 tanpa keruntuhan representasi.
+  - **Indeks OpenViking DB:** Seluruh 10 direktori dan 104 dokumen vault terindeks penuh (470+ chunk) pada container `luco-openviking` (:1933).
+  - **OpenViking Semantic Retrieval:** `pixi run spike` sukses menghasilkan skor kesamaan vektor 0.76–0.84 tanpa hambatan.
+- 🔄 **Langkah Evaluasi & Pengujian Lanjutan:**
+  - Akun Google telah terhubung aktif pada dashboard proxy Antigravity (`http://localhost:3000`).
+  - Evaluasi tolok ukur: `pixi run eval -- --judge`.
+  - Benchmark komparasi mode & embedding: `pixi run benchmark-modes` dan `pixi run benchmark-bert`.
