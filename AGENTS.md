@@ -12,7 +12,7 @@ Bahasa dokumen/komentar: Indonesia. Nama kode/identifier: Inggris/Indonesia camp
 - `pixi run check-links` — cek tautan relatif di vault
 - `pixi run up` — jalankan seluruh stack (OpenViking + antigravity-proxy + luco-app via Docker Compose)
 - `pixi run up:deps` — jalankan sub-services dependensi saja (OpenViking & antigravity-proxy)
-- `pixi run ingest` — masukkan vault ke OpenViking; `pixi run spike` — verifikasi hasil
+- `pixi run ingest` — masukkan vault ke OpenViking; `pixi run spike` — verifikasi hasil; `pixi run check-chunks` — statistik chunk & vektor OpenViking
 - `pixi run serve` — API di :8000 (`POST /v1/chat/completions`, `GET /health`); `pixi run chat` — REPL
 - `pixi run eval -- --judge` — evaluasi tolok ukur vs baseline tanpa RAG
 - `pixi run benchmark-modes` — benchmark 3 mode inferensi (IndoBERT+Viking vs Fast vs Direct LLM)
